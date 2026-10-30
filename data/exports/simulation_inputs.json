@@ -1,0 +1,642 @@
+[
+  {
+    "input_id": 1,
+    "simulation_id": "SIM-7616C7D08478",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 2,
+    "simulation_id": "SIM-7616C7D08478",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 3,
+    "simulation_id": "SIM-5AE53C540937",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 4,
+    "simulation_id": "SIM-5AE53C540937",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 5,
+    "simulation_id": "SIM-5AE53C540937",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 6,
+    "simulation_id": "SIM-A730EE3DA37D",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 7,
+    "simulation_id": "SIM-A730EE3DA37D",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 8,
+    "simulation_id": "SIM-A730EE3DA37D",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 9,
+    "simulation_id": "SIM-5084F2C7F08C",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 54.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 10,
+    "simulation_id": "SIM-5084F2C7F08C",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 11,
+    "simulation_id": "SIM-5084F2C7F08C",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 12,
+    "simulation_id": "SIM-8D770FABEA6D",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 13,
+    "simulation_id": "SIM-8D770FABEA6D",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 14,
+    "simulation_id": "SIM-8D770FABEA6D",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 15,
+    "simulation_id": "SIM-6DFE5B75C3C2",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 16,
+    "simulation_id": "SIM-6DFE5B75C3C2",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 17,
+    "simulation_id": "SIM-6DFE5B75C3C2",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 18,
+    "simulation_id": "SIM-3AF36C8F98E2",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 19,
+    "simulation_id": "SIM-3AF36C8F98E2",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 2.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 20,
+    "simulation_id": "SIM-3AF36C8F98E2",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5200.0,
+    "simulated_value": 5200.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 21,
+    "simulation_id": "SIM-A07F6CFE7ED7",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 22,
+    "simulation_id": "SIM-A07F6CFE7ED7",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 23,
+    "simulation_id": "SIM-A07F6CFE7ED7",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 24,
+    "simulation_id": "SIM-A7BC6C8360B5",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 20.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 25,
+    "simulation_id": "SIM-A7BC6C8360B5",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 26,
+    "simulation_id": "SIM-A7BC6C8360B5",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 27,
+    "simulation_id": "SIM-3ACFF1911B84",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 28,
+    "simulation_id": "SIM-3ACFF1911B84",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 29,
+    "simulation_id": "SIM-3ACFF1911B84",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 30,
+    "simulation_id": "SIM-3BEB07D92C34",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 31,
+    "simulation_id": "SIM-3BEB07D92C34",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 60.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 32,
+    "simulation_id": "SIM-3BEB07D92C34",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 33,
+    "simulation_id": "SIM-9472ACD71ADF",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 34,
+    "simulation_id": "SIM-9472ACD71ADF",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 35,
+    "simulation_id": "SIM-9472ACD71ADF",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 20.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 36,
+    "simulation_id": "SIM-9472ACD71ADF",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 37,
+    "simulation_id": "SIM-E9B99D5423A1",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 38,
+    "simulation_id": "SIM-E9B99D5423A1",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 39,
+    "simulation_id": "SIM-E9B99D5423A1",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 0.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 40,
+    "simulation_id": "SIM-E9B99D5423A1",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 41,
+    "simulation_id": "SIM-44AB19D1FA07",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 42,
+    "simulation_id": "SIM-44AB19D1FA07",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 43,
+    "simulation_id": "SIM-44AB19D1FA07",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 0.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 44,
+    "simulation_id": "SIM-44AB19D1FA07",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 45,
+    "simulation_id": "SIM-21861F8E9244",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 46,
+    "simulation_id": "SIM-21861F8E9244",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 47,
+    "simulation_id": "SIM-21861F8E9244",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 0.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 48,
+    "simulation_id": "SIM-21861F8E9244",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 49,
+    "simulation_id": "SIM-8C7E63A4E77F",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 50,
+    "simulation_id": "SIM-8C7E63A4E77F",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 51,
+    "simulation_id": "SIM-8C7E63A4E77F",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 20.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 52,
+    "simulation_id": "SIM-8C7E63A4E77F",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 53,
+    "simulation_id": "SIM-58824C01F6F1",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 54,
+    "simulation_id": "SIM-58824C01F6F1",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 55,
+    "simulation_id": "SIM-2F7D015B6779",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 56,
+    "simulation_id": "SIM-2F7D015B6779",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 57,
+    "simulation_id": "SIM-2F7D015B6779",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 0.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 58,
+    "simulation_id": "SIM-2F7D015B6779",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 59,
+    "simulation_id": "SIM-E0CC2AB66F9B",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 60.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 60,
+    "simulation_id": "SIM-E0CC2AB66F9B",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 61,
+    "simulation_id": "SIM-E0CC2AB66F9B",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 0.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 62,
+    "simulation_id": "SIM-E0CC2AB66F9B",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 63,
+    "simulation_id": "SIM-B65986291996",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 64,
+    "simulation_id": "SIM-B65986291996",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 65,
+    "simulation_id": "SIM-B65986291996",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 0.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 66,
+    "simulation_id": "SIM-B65986291996",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 67,
+    "simulation_id": "SIM-AB10718E8AC8",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 60.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 68,
+    "simulation_id": "SIM-AB10718E8AC8",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 100.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 69,
+    "simulation_id": "SIM-AB10718E8AC8",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 0.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 70,
+    "simulation_id": "SIM-AB10718E8AC8",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 71,
+    "simulation_id": "SIM-6141D2F92A7B",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 72,
+    "simulation_id": "SIM-6141D2F92A7B",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 73,
+    "simulation_id": "SIM-84CC54F0D74B",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 74,
+    "simulation_id": "SIM-84CC54F0D74B",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 90.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 75,
+    "simulation_id": "SIM-84CC54F0D74B",
+    "parameter_name": "pipeline_leakage",
+    "original_value": 0.0,
+    "simulated_value": 5.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 76,
+    "simulation_id": "SIM-84CC54F0D74B",
+    "parameter_name": "tank_initial_level",
+    "original_value": 5000.0,
+    "simulated_value": 5000.0,
+    "unit": "liters"
+  },
+  {
+    "input_id": 77,
+    "simulation_id": "SIM-E7A929554466",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 78,
+    "simulation_id": "SIM-E7A929554466",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 79,
+    "simulation_id": "SIM-6779977D1138",
+    "parameter_name": "pump_speed",
+    "original_value": 100.0,
+    "simulated_value": 80.0,
+    "unit": "%"
+  },
+  {
+    "input_id": 80,
+    "simulation_id": "SIM-6779977D1138",
+    "parameter_name": "valve_opening",
+    "original_value": 100.0,
+    "simulated_value": 75.0,
+    "unit": "%"
+  }
+]

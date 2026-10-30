@@ -1,0 +1,23 @@
+[
+  {
+    "facility_id": "FAC-001",
+    "facility_name": "North Water Treatment Plant",
+    "location": "Hyderabad",
+    "status": "ACTIVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "facility_id": "FAC-002",
+    "facility_name": "Central Water Processing Plant",
+    "location": "Mumbai",
+    "status": "ACTIVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "facility_id": "FAC-003",
+    "facility_name": "South Water Distribution Plant",
+    "location": "Chennai",
+    "status": "ACTIVE",
+    "created_at": "2026-10-30 05:55:46"
+  }
+]

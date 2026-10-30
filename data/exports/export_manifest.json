@@ -1,0 +1,110 @@
+{
+  "database": "industrial_monitoring.db",
+  "format": [
+    "CSV",
+    "JSON",
+    "SQL"
+  ],
+  "tables": {
+    "alarms": {
+      "records": 240,
+      "csv_file": "alarms.csv",
+      "json_file": "alarms.json",
+      "csv_sha256": "c54337a2473fef62fae19a8676b04ddb6e89fdefe7fa943509fe6d76e0e6c7fb",
+      "json_sha256": "d107973fed80291e31de40a81ecd4752e0bd68df060156ba6b9bf359aec0acee"
+    },
+    "equipment_state_events": {
+      "records": 0,
+      "csv_file": "equipment_state_events.csv",
+      "json_file": "equipment_state_events.json",
+      "csv_sha256": "4b06b90c27110c1bc6efff1e0d9cd8bc6831f91fb663d586430fd8e1cec37f43",
+      "json_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "facilities": {
+      "records": 3,
+      "csv_file": "facilities.csv",
+      "json_file": "facilities.json",
+      "csv_sha256": "72654410f9eeeede5ea13983cafd1c4eda6e2e25298019755e370098b2728f92",
+      "json_sha256": "09dc1e84cfd8704ced75e3411ce05837110851802adf48f9a8bb57acd3b47e68"
+    },
+    "ground_truth": {
+      "records": 240,
+      "csv_file": "ground_truth.csv",
+      "json_file": "ground_truth.json",
+      "csv_sha256": "1054c74852219ec3df97e26f99d0181480f775ebbedcd000e59aa7b4851da76b",
+      "json_sha256": "d162c265256290030dc2c4e04b6228e451f20c39d8eae3bb422b250618ba965e"
+    },
+    "network_nodes": {
+      "records": 110,
+      "csv_file": "network_nodes.csv",
+      "json_file": "network_nodes.json",
+      "csv_sha256": "d43f5b8c274c6621e98286475eacd42161b7940ac07ccdbc5592abf8e877cabe",
+      "json_sha256": "c479e434148e6e1b57d6ebb55037691e134579fb2fca6454f6e8b71b5ac344a7"
+    },
+    "operating_modes": {
+      "records": 3,
+      "csv_file": "operating_modes.csv",
+      "json_file": "operating_modes.json",
+      "csv_sha256": "7262bbaa5a771a910d9425d317dd9a6c35cd1aa7e401b1cf5e47f08295dd6dae",
+      "json_sha256": "e071a0dd1171cf87022861b16e896f6c03c2e5a4a07d48fc56d4106ebafbb1ce"
+    },
+    "pipes": {
+      "records": 107,
+      "csv_file": "pipes.csv",
+      "json_file": "pipes.json",
+      "csv_sha256": "462828c0a4371afc156ede89f26ce7270ac84a6ce5a72987acae13fe57bcd244",
+      "json_sha256": "e06227027f28c8afca8eb91265577f166a0d3f84955d0beb4e8d4497469a1012"
+    },
+    "pumps": {
+      "records": 20,
+      "csv_file": "pumps.csv",
+      "json_file": "pumps.json",
+      "csv_sha256": "e35cc3024c0cae3281f6867b455481011331737995b030d162d5ff2d31066eca",
+      "json_sha256": "f4755f5589e623e88afb3d92bd31be34dfb3228459558ccd5b27260156658fdc"
+    },
+    "sensors": {
+      "records": 177,
+      "csv_file": "sensors.csv",
+      "json_file": "sensors.json",
+      "csv_sha256": "bdd89c68254f9d186fa10e0bd2c128dd15de7a6b257c4f3f5bdc10f3ac852c55",
+      "json_sha256": "9aaa78230ed7ef5e0110f5035ef520c1a660ce28fe269f78e67179c9f29a4894"
+    },
+    "simulation_inputs": {
+      "records": 80,
+      "csv_file": "simulation_inputs.csv",
+      "json_file": "simulation_inputs.json",
+      "csv_sha256": "bad1d82484d6efd3ca6d364e705305c89a2340f833dee346999e9d7792f9a888",
+      "json_sha256": "a65a9554c9bacdf2170a7e4b010a54295482539a1d7064e2b457af766f687c42"
+    },
+    "simulation_runs": {
+      "records": 25,
+      "csv_file": "simulation_runs.csv",
+      "json_file": "simulation_runs.json",
+      "csv_sha256": "9f1a6d5f489636616fa24aeaa6158bd45b82fe2a59a12db7709c990d7e6e898b",
+      "json_sha256": "0497deccc80fc366822e2a376b1f1a2712d74e13261044c0abba692408a1297e"
+    },
+    "tanks": {
+      "records": 30,
+      "csv_file": "tanks.csv",
+      "json_file": "tanks.json",
+      "csv_sha256": "27a41875f90d13cb2f8331a831eec2b98909b32d29b87e3e0ec700dfa41bbf93",
+      "json_sha256": "a30f0f38911423cc1cbef30ec8a44891d58e863b91400e461270e445575389f1"
+    },
+    "telemetry": {
+      "records": 100240,
+      "csv_file": "telemetry.csv",
+      "json_file": "telemetry.json",
+      "csv_sha256": "5583e10471d9617b5114009b26ba14eb667e272defedc7c919f70011bc564995",
+      "json_sha256": "29fe119e3939f06d50177b7c9672122272e5a232a1d8a081a613ecff5adf3d8b"
+    },
+    "valves": {
+      "records": 60,
+      "csv_file": "valves.csv",
+      "json_file": "valves.json",
+      "csv_sha256": "ed7dfb6c23ef981a8b0c83fb3cb828df5b8093c008f3466a20fb1bbdbc30d92c",
+      "json_sha256": "37fcec432aef444a89ffb9889c3a6515aa263086ab00fdd211beb936b3a4a4c2"
+    }
+  },
+  "sql_file": "industrial_monitoring.sql",
+  "sql_sha256": "59f1151bc6146bcb5f3dad0789732942025d3a011464a6996338131c5b03e22f"
+}

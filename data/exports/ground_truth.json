@@ -1,0 +1,2162 @@
+[
+  {
+    "truth_id": 1,
+    "telemetry_id": 100001,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 2,
+    "telemetry_id": 100002,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 3,
+    "telemetry_id": 100003,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 4,
+    "telemetry_id": 100004,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 5,
+    "telemetry_id": 100005,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 6,
+    "telemetry_id": 100006,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 7,
+    "telemetry_id": 100007,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 8,
+    "telemetry_id": 100008,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 9,
+    "telemetry_id": 100009,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 10,
+    "telemetry_id": 100010,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 11,
+    "telemetry_id": 100011,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 12,
+    "telemetry_id": 100012,
+    "sensor_id": "SNS-158",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-001",
+    "description": "Simulated leak on PIPE-088: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 13,
+    "telemetry_id": 100013,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 14,
+    "telemetry_id": 100014,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 15,
+    "telemetry_id": 100015,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 16,
+    "telemetry_id": 100016,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 17,
+    "telemetry_id": 100017,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 18,
+    "telemetry_id": 100018,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 19,
+    "telemetry_id": 100019,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 20,
+    "telemetry_id": 100020,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 21,
+    "telemetry_id": 100021,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 22,
+    "telemetry_id": 100022,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 23,
+    "telemetry_id": 100023,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 24,
+    "telemetry_id": 100024,
+    "sensor_id": "SNS-116",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-002",
+    "description": "Simulated leak on PIPE-046: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 25,
+    "telemetry_id": 100025,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 26,
+    "telemetry_id": 100026,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 27,
+    "telemetry_id": 100027,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 28,
+    "telemetry_id": 100028,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 29,
+    "telemetry_id": 100029,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 30,
+    "telemetry_id": 100030,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 31,
+    "telemetry_id": 100031,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 32,
+    "telemetry_id": 100032,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 33,
+    "telemetry_id": 100033,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 34,
+    "telemetry_id": 100034,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 35,
+    "telemetry_id": 100035,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 36,
+    "telemetry_id": 100036,
+    "sensor_id": "SNS-145",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-003",
+    "description": "Simulated leak on PIPE-075: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 37,
+    "telemetry_id": 100037,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 38,
+    "telemetry_id": 100038,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 39,
+    "telemetry_id": 100039,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 40,
+    "telemetry_id": 100040,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 41,
+    "telemetry_id": 100041,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 42,
+    "telemetry_id": 100042,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 43,
+    "telemetry_id": 100043,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 44,
+    "telemetry_id": 100044,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 45,
+    "telemetry_id": 100045,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 46,
+    "telemetry_id": 100046,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 47,
+    "telemetry_id": 100047,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 48,
+    "telemetry_id": 100048,
+    "sensor_id": "SNS-107",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-004",
+    "description": "Simulated leak on PIPE-037: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 49,
+    "telemetry_id": 100049,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 50,
+    "telemetry_id": 100050,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 51,
+    "telemetry_id": 100051,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 52,
+    "telemetry_id": 100052,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 53,
+    "telemetry_id": 100053,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 54,
+    "telemetry_id": 100054,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 55,
+    "telemetry_id": 100055,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 56,
+    "telemetry_id": 100056,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 57,
+    "telemetry_id": 100057,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 58,
+    "telemetry_id": 100058,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 59,
+    "telemetry_id": 100059,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 60,
+    "telemetry_id": 100060,
+    "sensor_id": "SNS-093",
+    "issue_type": "LEAK",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-005",
+    "description": "Simulated leak on PIPE-023: pipe flow reduced by approximately 45%."
+  },
+  {
+    "truth_id": 61,
+    "telemetry_id": 100061,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 62,
+    "telemetry_id": 100062,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 63,
+    "telemetry_id": 100063,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 64,
+    "telemetry_id": 100064,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 65,
+    "telemetry_id": 100065,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 66,
+    "telemetry_id": 100066,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 67,
+    "telemetry_id": 100067,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 68,
+    "telemetry_id": 100068,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 69,
+    "telemetry_id": 100069,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 70,
+    "telemetry_id": 100070,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 71,
+    "telemetry_id": 100071,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 72,
+    "telemetry_id": 100072,
+    "sensor_id": "SNS-112",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-006",
+    "description": "Simulated blockage on PIPE-042: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 73,
+    "telemetry_id": 100073,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 74,
+    "telemetry_id": 100074,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 75,
+    "telemetry_id": 100075,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 76,
+    "telemetry_id": 100076,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 77,
+    "telemetry_id": 100077,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 78,
+    "telemetry_id": 100078,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 79,
+    "telemetry_id": 100079,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 80,
+    "telemetry_id": 100080,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 81,
+    "telemetry_id": 100081,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 82,
+    "telemetry_id": 100082,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 83,
+    "telemetry_id": 100083,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 84,
+    "telemetry_id": 100084,
+    "sensor_id": "SNS-156",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-007",
+    "description": "Simulated blockage on PIPE-086: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 85,
+    "telemetry_id": 100085,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 86,
+    "telemetry_id": 100086,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 87,
+    "telemetry_id": 100087,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 88,
+    "telemetry_id": 100088,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 89,
+    "telemetry_id": 100089,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 90,
+    "telemetry_id": 100090,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 91,
+    "telemetry_id": 100091,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 92,
+    "telemetry_id": 100092,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 93,
+    "telemetry_id": 100093,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 94,
+    "telemetry_id": 100094,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 95,
+    "telemetry_id": 100095,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 96,
+    "telemetry_id": 100096,
+    "sensor_id": "SNS-165",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-008",
+    "description": "Simulated blockage on PIPE-095: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 97,
+    "telemetry_id": 100097,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 98,
+    "telemetry_id": 100098,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 99,
+    "telemetry_id": 100099,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 100,
+    "telemetry_id": 100100,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 101,
+    "telemetry_id": 100101,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 102,
+    "telemetry_id": 100102,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 103,
+    "telemetry_id": 100103,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 104,
+    "telemetry_id": 100104,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 105,
+    "telemetry_id": 100105,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 106,
+    "telemetry_id": 100106,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 107,
+    "telemetry_id": 100107,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 108,
+    "telemetry_id": 100108,
+    "sensor_id": "SNS-160",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-009",
+    "description": "Simulated blockage on PIPE-090: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 109,
+    "telemetry_id": 100109,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 110,
+    "telemetry_id": 100110,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 111,
+    "telemetry_id": 100111,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 112,
+    "telemetry_id": 100112,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 113,
+    "telemetry_id": 100113,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 114,
+    "telemetry_id": 100114,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 115,
+    "telemetry_id": 100115,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 116,
+    "telemetry_id": 100116,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 117,
+    "telemetry_id": 100117,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 118,
+    "telemetry_id": 100118,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 119,
+    "telemetry_id": 100119,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 120,
+    "telemetry_id": 100120,
+    "sensor_id": "SNS-154",
+    "issue_type": "BLOCKAGE",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-010",
+    "description": "Simulated blockage on PIPE-084: flow reduced by approximately 60%."
+  },
+  {
+    "truth_id": 121,
+    "telemetry_id": 100121,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 122,
+    "telemetry_id": 100122,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 123,
+    "telemetry_id": 100123,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 124,
+    "telemetry_id": 100124,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 125,
+    "telemetry_id": 100125,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 126,
+    "telemetry_id": 100126,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 127,
+    "telemetry_id": 100127,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 128,
+    "telemetry_id": 100128,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 129,
+    "telemetry_id": 100129,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 130,
+    "telemetry_id": 100130,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 131,
+    "telemetry_id": 100131,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 132,
+    "telemetry_id": 100132,
+    "sensor_id": "SNS-003",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-011",
+    "description": "Pump PUMP-002 degradation: flow reduced by approximately 40%. Nominal pressure: 3.24 bar."
+  },
+  {
+    "truth_id": 133,
+    "telemetry_id": 100133,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 134,
+    "telemetry_id": 100134,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 135,
+    "telemetry_id": 100135,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 136,
+    "telemetry_id": 100136,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 137,
+    "telemetry_id": 100137,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 138,
+    "telemetry_id": 100138,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 139,
+    "telemetry_id": 100139,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 140,
+    "telemetry_id": 100140,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 141,
+    "telemetry_id": 100141,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 142,
+    "telemetry_id": 100142,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 143,
+    "telemetry_id": 100143,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 144,
+    "telemetry_id": 100144,
+    "sensor_id": "SNS-015",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-012",
+    "description": "Pump PUMP-008 degradation: flow reduced by approximately 40%. Nominal pressure: 3.75 bar."
+  },
+  {
+    "truth_id": 145,
+    "telemetry_id": 100145,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 146,
+    "telemetry_id": 100146,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 147,
+    "telemetry_id": 100147,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 148,
+    "telemetry_id": 100148,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 149,
+    "telemetry_id": 100149,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 150,
+    "telemetry_id": 100150,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 151,
+    "telemetry_id": 100151,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 152,
+    "telemetry_id": 100152,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 153,
+    "telemetry_id": 100153,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 154,
+    "telemetry_id": 100154,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 155,
+    "telemetry_id": 100155,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 156,
+    "telemetry_id": 100156,
+    "sensor_id": "SNS-037",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-013",
+    "description": "Pump PUMP-019 degradation: flow reduced by approximately 40%. Nominal pressure: 3.23 bar."
+  },
+  {
+    "truth_id": 157,
+    "telemetry_id": 100157,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 158,
+    "telemetry_id": 100158,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 159,
+    "telemetry_id": 100159,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 160,
+    "telemetry_id": 100160,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 161,
+    "telemetry_id": 100161,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 162,
+    "telemetry_id": 100162,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 163,
+    "telemetry_id": 100163,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 164,
+    "telemetry_id": 100164,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 165,
+    "telemetry_id": 100165,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 166,
+    "telemetry_id": 100166,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 167,
+    "telemetry_id": 100167,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 168,
+    "telemetry_id": 100168,
+    "sensor_id": "SNS-035",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-014",
+    "description": "Pump PUMP-018 degradation: flow reduced by approximately 40%. Nominal pressure: 5.28 bar."
+  },
+  {
+    "truth_id": 169,
+    "telemetry_id": 100169,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 170,
+    "telemetry_id": 100170,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 171,
+    "telemetry_id": 100171,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 172,
+    "telemetry_id": 100172,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 173,
+    "telemetry_id": 100173,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 174,
+    "telemetry_id": 100174,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 175,
+    "telemetry_id": 100175,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 176,
+    "telemetry_id": 100176,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 177,
+    "telemetry_id": 100177,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 178,
+    "telemetry_id": 100178,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 179,
+    "telemetry_id": 100179,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 180,
+    "telemetry_id": 100180,
+    "sensor_id": "SNS-001",
+    "issue_type": "PUMP_DEGRADATION",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-015",
+    "description": "Pump PUMP-001 degradation: flow reduced by approximately 40%. Nominal pressure: 5.9 bar."
+  },
+  {
+    "truth_id": 181,
+    "telemetry_id": 100181,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 182,
+    "telemetry_id": 100182,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 183,
+    "telemetry_id": 100183,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 184,
+    "telemetry_id": 100184,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 185,
+    "telemetry_id": 100185,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 186,
+    "telemetry_id": 100186,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 187,
+    "telemetry_id": 100187,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 188,
+    "telemetry_id": 100188,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 189,
+    "telemetry_id": 100189,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 190,
+    "telemetry_id": 100190,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 191,
+    "telemetry_id": 100191,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 192,
+    "telemetry_id": 100192,
+    "sensor_id": "SNS-070",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-016",
+    "description": "Sensor fault on SNS-070: simulated stuck reading."
+  },
+  {
+    "truth_id": 193,
+    "telemetry_id": 100193,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 194,
+    "telemetry_id": 100194,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 195,
+    "telemetry_id": 100195,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 196,
+    "telemetry_id": 100196,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 197,
+    "telemetry_id": 100197,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 198,
+    "telemetry_id": 100198,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 199,
+    "telemetry_id": 100199,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 200,
+    "telemetry_id": 100200,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 201,
+    "telemetry_id": 100201,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 202,
+    "telemetry_id": 100202,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 203,
+    "telemetry_id": 100203,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 204,
+    "telemetry_id": 100204,
+    "sensor_id": "SNS-017",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-017",
+    "description": "Sensor fault on SNS-017: simulated stuck reading."
+  },
+  {
+    "truth_id": 205,
+    "telemetry_id": 100205,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 206,
+    "telemetry_id": 100206,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 207,
+    "telemetry_id": 100207,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 208,
+    "telemetry_id": 100208,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 209,
+    "telemetry_id": 100209,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 210,
+    "telemetry_id": 100210,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 211,
+    "telemetry_id": 100211,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 212,
+    "telemetry_id": 100212,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 213,
+    "telemetry_id": 100213,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 214,
+    "telemetry_id": 100214,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 215,
+    "telemetry_id": 100215,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 216,
+    "telemetry_id": 100216,
+    "sensor_id": "SNS-008",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-018",
+    "description": "Sensor fault on SNS-008: simulated stuck reading."
+  },
+  {
+    "truth_id": 217,
+    "telemetry_id": 100217,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 218,
+    "telemetry_id": 100218,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 219,
+    "telemetry_id": 100219,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 220,
+    "telemetry_id": 100220,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 221,
+    "telemetry_id": 100221,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 222,
+    "telemetry_id": 100222,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 223,
+    "telemetry_id": 100223,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 224,
+    "telemetry_id": 100224,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 225,
+    "telemetry_id": 100225,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 226,
+    "telemetry_id": 100226,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 227,
+    "telemetry_id": 100227,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 228,
+    "telemetry_id": 100228,
+    "sensor_id": "SNS-026",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-019",
+    "description": "Sensor fault on SNS-026: simulated stuck reading."
+  },
+  {
+    "truth_id": 229,
+    "telemetry_id": 100229,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 230,
+    "telemetry_id": 100230,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 231,
+    "telemetry_id": 100231,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 232,
+    "telemetry_id": 100232,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 233,
+    "telemetry_id": 100233,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 234,
+    "telemetry_id": 100234,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 235,
+    "telemetry_id": 100235,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 236,
+    "telemetry_id": 100236,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 237,
+    "telemetry_id": 100237,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 238,
+    "telemetry_id": 100238,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 239,
+    "telemetry_id": 100239,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  },
+  {
+    "truth_id": 240,
+    "telemetry_id": 100240,
+    "sensor_id": "SNS-025",
+    "issue_type": "SENSOR_FAULT",
+    "expected_label": "ANOMALY",
+    "scenario_id": "FAULT-020",
+    "description": "Sensor fault on SNS-025: simulated stuck reading."
+  }
+]

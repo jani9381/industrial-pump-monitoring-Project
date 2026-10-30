@@ -1,0 +1,272 @@
+[
+  {
+    "tank_id": "TANK-001",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-021",
+    "tank_name": "Storage Tank 1",
+    "capacity_liters": 8119.87,
+    "current_level": 2288.37,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-002",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-022",
+    "tank_name": "Storage Tank 2",
+    "capacity_liters": 6083.0,
+    "current_level": 1841.6,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-003",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-023",
+    "tank_name": "Storage Tank 3",
+    "capacity_liters": 12570.31,
+    "current_level": 3182.43,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-004",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-024",
+    "tank_name": "Storage Tank 4",
+    "capacity_liters": 6127.18,
+    "current_level": 2273.08,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-005",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-025",
+    "tank_name": "Storage Tank 5",
+    "capacity_liters": 19908.37,
+    "current_level": 10227.64,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-006",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-026",
+    "tank_name": "Storage Tank 6",
+    "capacity_liters": 6116.37,
+    "current_level": 3322.08,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-007",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-027",
+    "tank_name": "Storage Tank 7",
+    "capacity_liters": 16384.24,
+    "current_level": 7390.93,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-008",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-028",
+    "tank_name": "Storage Tank 8",
+    "capacity_liters": 16568.97,
+    "current_level": 9547.33,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-009",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-029",
+    "tank_name": "Storage Tank 9",
+    "capacity_liters": 19865.46,
+    "current_level": 5024.65,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-010",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-030",
+    "tank_name": "Storage Tank 10",
+    "capacity_liters": 12204.03,
+    "current_level": 4647.94,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-011",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-031",
+    "tank_name": "Storage Tank 11",
+    "capacity_liters": 5427.68,
+    "current_level": 3473.91,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-012",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-032",
+    "tank_name": "Storage Tank 12",
+    "capacity_liters": 9567.94,
+    "current_level": 5110.27,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-013",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-033",
+    "tank_name": "Storage Tank 13",
+    "capacity_liters": 16073.78,
+    "current_level": 9901.04,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-014",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-034",
+    "tank_name": "Storage Tank 14",
+    "capacity_liters": 15965.58,
+    "current_level": 11518.6,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-015",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-035",
+    "tank_name": "Storage Tank 15",
+    "capacity_liters": 12022.69,
+    "current_level": 8589.45,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-016",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-036",
+    "tank_name": "Storage Tank 16",
+    "capacity_liters": 6800.48,
+    "current_level": 5074.32,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-017",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-037",
+    "tank_name": "Storage Tank 17",
+    "capacity_liters": 13723.93,
+    "current_level": 3812.16,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-018",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-038",
+    "tank_name": "Storage Tank 18",
+    "capacity_liters": 5672.66,
+    "current_level": 2993.38,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-019",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-039",
+    "tank_name": "Storage Tank 19",
+    "capacity_liters": 5209.53,
+    "current_level": 2774.91,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-020",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-040",
+    "tank_name": "Storage Tank 20",
+    "capacity_liters": 11475.76,
+    "current_level": 5773.06,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-021",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-041",
+    "tank_name": "Storage Tank 21",
+    "capacity_liters": 10090.52,
+    "current_level": 3638.62,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-022",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-042",
+    "tank_name": "Storage Tank 22",
+    "capacity_liters": 19789.13,
+    "current_level": 11920.66,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-023",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-043",
+    "tank_name": "Storage Tank 23",
+    "capacity_liters": 14038.02,
+    "current_level": 10390.48,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-024",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-044",
+    "tank_name": "Storage Tank 24",
+    "capacity_liters": 15058.11,
+    "current_level": 9769.61,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-025",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-045",
+    "tank_name": "Storage Tank 25",
+    "capacity_liters": 18884.69,
+    "current_level": 7629.72,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-026",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-046",
+    "tank_name": "Storage Tank 26",
+    "capacity_liters": 14960.49,
+    "current_level": 5860.71,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-027",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-047",
+    "tank_name": "Storage Tank 27",
+    "capacity_liters": 12718.51,
+    "current_level": 5957.69,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-028",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-048",
+    "tank_name": "Storage Tank 28",
+    "capacity_liters": 16951.02,
+    "current_level": 11861.11,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-029",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-049",
+    "tank_name": "Storage Tank 29",
+    "capacity_liters": 10328.94,
+    "current_level": 6756.03,
+    "status": "ACTIVE"
+  },
+  {
+    "tank_id": "TANK-030",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-050",
+    "tank_name": "Storage Tank 30",
+    "capacity_liters": 17555.23,
+    "current_level": 6108.69,
+    "status": "ACTIVE"
+  }
+]

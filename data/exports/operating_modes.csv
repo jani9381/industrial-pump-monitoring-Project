@@ -1,0 +1,4 @@
+﻿mode_id,facility_id,mode_name,description,effective_from,effective_to,status
+MODE-001,FAC-001,NORMAL,Normal water processing operation,2026-01-01,,ACTIVE
+MODE-002,FAC-002,NORMAL,Normal water processing operation,2026-01-01,,ACTIVE
+MODE-003,FAC-003,NORMAL,Normal water processing operation,2026-01-01,,ACTIVE

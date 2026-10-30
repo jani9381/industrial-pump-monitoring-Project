@@ -1,0 +1,252 @@
+[
+  {
+    "simulation_id": "SIM-7616C7D08478",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_speed_percent\": 80, \"valve_opening_percent\": 75}",
+    "assumptions_json": "{\"flow_model\": \"Linear pump speed model\"}",
+    "output_json": "{\"pump_flow_lpm\": 160, \"delivered_flow_lpm\": 120}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 09:05:42"
+  },
+  {
+    "simulation_id": "SIM-5AE53C540937",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 75.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 75.0, \"pump_flow_lpm\": 160.0, \"delivered_flow_lpm\": 120.0, \"storage_change_lpm\": 40.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5400.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 160.0, \"outlet_flow_lpm\": 120.0, \"storage_change_lpm\": 40.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 1600.0, \"outlet_volume_liters\": 1200.0, \"storage_change_liters\": 400.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 09:11:19"
+  },
+  {
+    "simulation_id": "SIM-A730EE3DA37D",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 75.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 75.0, \"pump_flow_lpm\": 160.0, \"delivered_flow_lpm\": 120.0, \"storage_change_lpm\": 40.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5400.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 160.0, \"outlet_flow_lpm\": 120.0, \"storage_change_lpm\": 40.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 1600.0, \"outlet_volume_liters\": 1200.0, \"storage_change_liters\": 400.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 09:12:51"
+  },
+  {
+    "simulation_id": "SIM-5084F2C7F08C",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 54.0, \"valve_opening_percent\": 75.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 54.0, \"valve_opening_percent\": 75.0, \"pump_flow_lpm\": 108.0, \"delivered_flow_lpm\": 81.0, \"storage_change_lpm\": 27.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5270.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 108.0, \"outlet_flow_lpm\": 81.0, \"storage_change_lpm\": 27.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 1080.0, \"outlet_volume_liters\": 810.0, \"storage_change_liters\": 270.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:09:51"
+  },
+  {
+    "simulation_id": "SIM-8D770FABEA6D",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 75.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 75.0, \"pump_flow_lpm\": 160.0, \"delivered_flow_lpm\": 120.0, \"storage_change_lpm\": 40.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5400.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 160.0, \"outlet_flow_lpm\": 120.0, \"storage_change_lpm\": 40.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 1600.0, \"outlet_volume_liters\": 1200.0, \"storage_change_liters\": 400.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:12:21"
+  },
+  {
+    "simulation_id": "SIM-6DFE5B75C3C2",
+    "facility_id": "FAC-002",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 75.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 75.0, \"pump_flow_lpm\": 200.0, \"delivered_flow_lpm\": 150.0, \"storage_change_lpm\": 50.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5500.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 150.0, \"storage_change_lpm\": 50.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 1500.0, \"storage_change_liters\": 500.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:14:41"
+  },
+  {
+    "simulation_id": "SIM-3AF36C8F98E2",
+    "facility_id": "FAC-003",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 2.0, \"tank_initial_level_liters\": 5200.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 2.0, \"pump_flow_lpm\": 200.0, \"delivered_flow_lpm\": 4.0, \"storage_change_lpm\": 196.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5200.0, \"tank_final_level_liters\": 7160.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 4.0, \"storage_change_lpm\": 196.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 40.0, \"storage_change_liters\": 1960.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:15:29"
+  },
+  {
+    "simulation_id": "SIM-A07F6CFE7ED7",
+    "facility_id": "FAC-001",
+    "simulation_name": "Normal Baseline",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"pump_flow_lpm\": 200.0, \"delivered_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:19:15"
+  },
+  {
+    "simulation_id": "SIM-A7BC6C8360B5",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Degradation - 80% Severity",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 20.0, \"valve_opening_percent\": 100.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 20.0, \"valve_opening_percent\": 100.0, \"pump_flow_lpm\": 40.0, \"delivered_flow_lpm\": 40.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 40.0, \"outlet_flow_lpm\": 40.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 400.0, \"outlet_volume_liters\": 400.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:19:15"
+  },
+  {
+    "simulation_id": "SIM-3ACFF1911B84",
+    "facility_id": "FAC-001",
+    "simulation_name": "Normal Baseline",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"pump_flow_lpm\": 200.0, \"delivered_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:21:35"
+  },
+  {
+    "simulation_id": "SIM-3BEB07D92C34",
+    "facility_id": "FAC-001",
+    "simulation_name": "Valve Blockage - 40% Severity",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 60.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"valve_model\": \"Delivered flow is proportional to valve opening\", \"storage_model\": \"Undelivered flow accumulates in the tank\", \"hydraulic_model\": \"Simplified linear simulation\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 60.0, \"pump_flow_lpm\": 200.0, \"delivered_flow_lpm\": 120.0, \"storage_change_lpm\": 80.0, \"duration_minutes\": 10.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5800.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 120.0, \"storage_change_lpm\": 80.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 1200.0, \"storage_change_liters\": 800.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:21:35"
+  },
+  {
+    "simulation_id": "SIM-9472ACD71ADF",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pipeline Leakage Test",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 20.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 20.0, \"pump_flow_lpm\": 200.0, \"leak_flow_lpm\": 40.0, \"flow_available_after_leak_lpm\": 160.0, \"delivered_flow_lpm\": 160.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 400.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:31:18"
+  },
+  {
+    "simulation_id": "SIM-E9B99D5423A1",
+    "facility_id": "FAC-001",
+    "simulation_name": "Normal Baseline",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"pump_flow_lpm\": 200.0, \"leak_flow_lpm\": 0.0, \"flow_available_after_leak_lpm\": 200.0, \"delivered_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:44:41"
+  },
+  {
+    "simulation_id": "SIM-44AB19D1FA07",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pipeline Leakage - 20% Severity",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"pump_flow_lpm\": 200.0, \"leak_flow_lpm\": 0.0, \"flow_available_after_leak_lpm\": 200.0, \"delivered_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:44:41"
+  },
+  {
+    "simulation_id": "SIM-21861F8E9244",
+    "facility_id": "FAC-001",
+    "simulation_name": "Normal Baseline",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"pump_flow_lpm\": 200.0, \"leak_flow_lpm\": 0.0, \"flow_available_after_leak_lpm\": 200.0, \"delivered_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:54:09"
+  },
+  {
+    "simulation_id": "SIM-8C7E63A4E77F",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pipeline Leakage Simulation",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 20.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 20.0, \"pump_flow_lpm\": 200.0, \"leak_flow_lpm\": 40.0, \"flow_available_after_leak_lpm\": 160.0, \"delivered_flow_lpm\": 160.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 400.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 10:54:10"
+  },
+  {
+    "simulation_id": "SIM-58824C01F6F1",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_speed_percent\": 80, \"valve_opening_percent\": 75}",
+    "assumptions_json": "{\"flow_model\": \"Linear pump speed model\"}",
+    "output_json": "{\"pump_flow_lpm\": 160, \"delivered_flow_lpm\": 120}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 11:03:38"
+  },
+  {
+    "simulation_id": "SIM-2F7D015B6779",
+    "facility_id": "FAC-001",
+    "simulation_name": "Normal Baseline",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"pump_flow_lpm\": 200.0, \"leak_flow_lpm\": 0.0, \"flow_available_after_leak_lpm\": 200.0, \"delivered_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 11:33:18"
+  },
+  {
+    "simulation_id": "SIM-E0CC2AB66F9B",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Degradation Simulation",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 60.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 60.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"pump_flow_lpm\": 120.0, \"leak_flow_lpm\": 0.0, \"flow_available_after_leak_lpm\": 120.0, \"delivered_flow_lpm\": 120.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 120.0, \"outlet_flow_lpm\": 120.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 1200.0, \"outlet_volume_liters\": 1200.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 11:33:18"
+  },
+  {
+    "simulation_id": "SIM-B65986291996",
+    "facility_id": "FAC-001",
+    "simulation_name": "Normal Baseline",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 100.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"pump_flow_lpm\": 200.0, \"leak_flow_lpm\": 0.0, \"flow_available_after_leak_lpm\": 200.0, \"delivered_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 200.0, \"outlet_flow_lpm\": 200.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 2000.0, \"outlet_volume_liters\": 2000.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 11:53:41"
+  },
+  {
+    "simulation_id": "SIM-AB10718E8AC8",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Degradation Simulation",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 60.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 200.0, \"pump_speed_percent\": 60.0, \"valve_opening_percent\": 100.0, \"leakage_percent\": 0.0, \"pump_flow_lpm\": 120.0, \"leak_flow_lpm\": 0.0, \"flow_available_after_leak_lpm\": 120.0, \"delivered_flow_lpm\": 120.0, \"storage_change_lpm\": 0.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 0.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 120.0, \"outlet_flow_lpm\": 120.0, \"storage_change_lpm\": 0.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 1200.0, \"outlet_volume_liters\": 1200.0, \"storage_change_liters\": 0.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 11:53:41"
+  },
+  {
+    "simulation_id": "SIM-6141D2F92A7B",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_speed_percent\": 80, \"valve_opening_percent\": 75}",
+    "assumptions_json": "{\"flow_model\": \"Linear pump speed model\"}",
+    "output_json": "{\"pump_flow_lpm\": 160, \"delivered_flow_lpm\": 120}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 12:07:37"
+  },
+  {
+    "simulation_id": "SIM-84CC54F0D74B",
+    "facility_id": "FAC-001",
+    "simulation_name": "Final API Validation",
+    "configuration_json": "{\"pump_nominal_flow_lpm\": 500.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 90.0, \"leakage_percent\": 5.0, \"tank_initial_level_liters\": 5000.0, \"tank_capacity_liters\": 10000.0, \"duration_minutes\": 10.0}",
+    "assumptions_json": "{\"flow_model\": \"Pump flow is proportional to pump speed\", \"leakage_model\": \"Pipeline leakage is a percentage of pump flow\", \"valve_model\": \"Delivered flow is proportional to flow remaining after leakage and valve opening\", \"storage_model\": \"Flow remaining after leakage and valve delivery accumulates in the tank\", \"mass_balance_model\": \"Pump inflow equals delivered flow plus leakage plus storage change\", \"hydraulic_model\": \"Simplified linear simulation; not a hydraulic network solver\"}",
+    "output_json": "{\"pump_nominal_flow_lpm\": 500.0, \"pump_speed_percent\": 80.0, \"valve_opening_percent\": 90.0, \"leakage_percent\": 5.0, \"pump_flow_lpm\": 400.0, \"leak_flow_lpm\": 20.0, \"flow_available_after_leak_lpm\": 380.0, \"delivered_flow_lpm\": 342.0, \"storage_change_lpm\": 38.0, \"duration_minutes\": 10.0, \"leaked_volume_liters\": 200.0, \"tank_initial_level_liters\": 5000.0, \"tank_final_level_liters\": 5380.0, \"tank_capacity_liters\": 10000.0, \"overflow_liters\": 0.0, \"tank_capacity_exceeded\": false, \"mass_balance\": {\"inlet_flow_lpm\": 400.0, \"outlet_flow_lpm\": 362.0, \"storage_change_lpm\": 38.0, \"net_imbalance_lpm\": 0.0, \"inlet_volume_liters\": 4000.0, \"outlet_volume_liters\": 3620.0, \"storage_change_liters\": 380.0, \"imbalance_volume_liters\": 0.0, \"imbalance_percentage\": 0.0, \"status\": \"BALANCED\"}}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 12:13:26"
+  },
+  {
+    "simulation_id": "SIM-E7A929554466",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_speed_percent\": 80, \"valve_opening_percent\": 75}",
+    "assumptions_json": "{\"flow_model\": \"Linear pump speed model\"}",
+    "output_json": "{\"pump_flow_lpm\": 160, \"delivered_flow_lpm\": 120}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 12:16:44"
+  },
+  {
+    "simulation_id": "SIM-6779977D1138",
+    "facility_id": "FAC-001",
+    "simulation_name": "Pump Performance Test",
+    "configuration_json": "{\"pump_speed_percent\": 80, \"valve_opening_percent\": 75}",
+    "assumptions_json": "{\"flow_model\": \"Linear pump speed model\"}",
+    "output_json": "{\"pump_flow_lpm\": 160, \"delivered_flow_lpm\": 120}",
+    "status": "COMPLETED",
+    "created_at": "2026-10-30 12:25:06"
+  }
+]

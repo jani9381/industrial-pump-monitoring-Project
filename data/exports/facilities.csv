@@ -1,0 +1,4 @@
+﻿facility_id,facility_name,location,status,created_at
+FAC-001,North Water Treatment Plant,Hyderabad,ACTIVE,2026-10-30 05:55:46
+FAC-002,Central Water Processing Plant,Mumbai,ACTIVE,2026-10-30 05:55:46
+FAC-003,South Water Distribution Plant,Chennai,ACTIVE,2026-10-30 05:55:46

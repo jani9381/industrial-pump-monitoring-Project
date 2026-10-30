@@ -1,0 +1,202 @@
+[
+  {
+    "pump_id": "PUMP-001",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-001",
+    "pump_name": "Industrial Pump 1",
+    "nominal_flow": 127.58,
+    "nominal_pressure": 5.9,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-002",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-002",
+    "pump_name": "Industrial Pump 2",
+    "nominal_flow": 139.77,
+    "nominal_pressure": 3.24,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-003",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-003",
+    "pump_name": "Industrial Pump 3",
+    "nominal_flow": 137.65,
+    "nominal_pressure": 4.15,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-004",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-004",
+    "pump_name": "Industrial Pump 4",
+    "nominal_flow": 80.2,
+    "nominal_pressure": 7.13,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-005",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-005",
+    "pump_name": "Industrial Pump 5",
+    "nominal_flow": 89.22,
+    "nominal_pressure": 3.99,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-006",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-006",
+    "pump_name": "Industrial Pump 6",
+    "nominal_flow": 101.6,
+    "nominal_pressure": 6.51,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-007",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-007",
+    "pump_name": "Industrial Pump 7",
+    "nominal_flow": 126.04,
+    "nominal_pressure": 3.53,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-008",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-008",
+    "pump_name": "Industrial Pump 8",
+    "nominal_flow": 93.54,
+    "nominal_pressure": 3.75,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-009",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-009",
+    "pump_name": "Industrial Pump 9",
+    "nominal_flow": 88.11,
+    "nominal_pressure": 5.95,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-010",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-010",
+    "pump_name": "Industrial Pump 10",
+    "nominal_flow": 80.36,
+    "nominal_pressure": 3.57,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-011",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-011",
+    "pump_name": "Industrial Pump 11",
+    "nominal_flow": 89.87,
+    "nominal_pressure": 4.74,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-012",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-012",
+    "pump_name": "Industrial Pump 12",
+    "nominal_flow": 83.99,
+    "nominal_pressure": 7.17,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-013",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-013",
+    "pump_name": "Industrial Pump 13",
+    "nominal_flow": 90.38,
+    "nominal_pressure": 5.29,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-014",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-014",
+    "pump_name": "Industrial Pump 14",
+    "nominal_flow": 144.08,
+    "nominal_pressure": 5.81,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-015",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-015",
+    "pump_name": "Industrial Pump 15",
+    "nominal_flow": 115.91,
+    "nominal_pressure": 5.57,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-016",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-016",
+    "pump_name": "Industrial Pump 16",
+    "nominal_flow": 86.65,
+    "nominal_pressure": 3.89,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-017",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-017",
+    "pump_name": "Industrial Pump 17",
+    "nominal_flow": 123.07,
+    "nominal_pressure": 5.08,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-018",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-018",
+    "pump_name": "Industrial Pump 18",
+    "nominal_flow": 86.22,
+    "nominal_pressure": 5.28,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-019",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-019",
+    "pump_name": "Industrial Pump 19",
+    "nominal_flow": 133.57,
+    "nominal_pressure": 3.23,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pump_id": "PUMP-020",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-020",
+    "pump_name": "Industrial Pump 20",
+    "nominal_flow": 139.75,
+    "nominal_pressure": 7.62,
+    "nominal_speed": 100.0,
+    "status": "ACTIVE"
+  }
+]

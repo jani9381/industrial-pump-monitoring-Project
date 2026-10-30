@@ -1,0 +1,772 @@
+[
+  {
+    "node_id": "NODE-001",
+    "facility_id": "FAC-001",
+    "node_name": "PUMP-001",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-002",
+    "facility_id": "FAC-001",
+    "node_name": "PUMP-002",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-003",
+    "facility_id": "FAC-001",
+    "node_name": "PUMP-003",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-004",
+    "facility_id": "FAC-001",
+    "node_name": "PUMP-004",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-005",
+    "facility_id": "FAC-001",
+    "node_name": "PUMP-005",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-006",
+    "facility_id": "FAC-001",
+    "node_name": "PUMP-006",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-007",
+    "facility_id": "FAC-001",
+    "node_name": "PUMP-007",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-008",
+    "facility_id": "FAC-002",
+    "node_name": "PUMP-008",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-009",
+    "facility_id": "FAC-002",
+    "node_name": "PUMP-009",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-010",
+    "facility_id": "FAC-002",
+    "node_name": "PUMP-010",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-011",
+    "facility_id": "FAC-002",
+    "node_name": "PUMP-011",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-012",
+    "facility_id": "FAC-002",
+    "node_name": "PUMP-012",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-013",
+    "facility_id": "FAC-002",
+    "node_name": "PUMP-013",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-014",
+    "facility_id": "FAC-002",
+    "node_name": "PUMP-014",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-015",
+    "facility_id": "FAC-003",
+    "node_name": "PUMP-015",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-016",
+    "facility_id": "FAC-003",
+    "node_name": "PUMP-016",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-017",
+    "facility_id": "FAC-003",
+    "node_name": "PUMP-017",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-018",
+    "facility_id": "FAC-003",
+    "node_name": "PUMP-018",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-019",
+    "facility_id": "FAC-003",
+    "node_name": "PUMP-019",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-020",
+    "facility_id": "FAC-003",
+    "node_name": "PUMP-020",
+    "node_type": "PUMP",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-021",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-001",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-022",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-002",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-023",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-003",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-024",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-004",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-025",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-005",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-026",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-006",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-027",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-007",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-028",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-008",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-029",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-009",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-030",
+    "facility_id": "FAC-001",
+    "node_name": "TANK-010",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-031",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-011",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-032",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-012",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-033",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-013",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-034",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-014",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-035",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-015",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-036",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-016",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-037",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-017",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-038",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-018",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-039",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-019",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-040",
+    "facility_id": "FAC-002",
+    "node_name": "TANK-020",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-041",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-021",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-042",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-022",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-043",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-023",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-044",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-024",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-045",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-025",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-046",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-026",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-047",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-027",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-048",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-028",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-049",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-029",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-050",
+    "facility_id": "FAC-003",
+    "node_name": "TANK-030",
+    "node_type": "TANK",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-051",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-001",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-052",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-002",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-053",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-003",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-054",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-004",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-055",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-005",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-056",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-006",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-057",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-007",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-058",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-008",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-059",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-009",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-060",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-010",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-061",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-011",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-062",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-012",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-063",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-013",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-064",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-014",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-065",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-015",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-066",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-016",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-067",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-017",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-068",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-018",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-069",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-019",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-070",
+    "facility_id": "FAC-001",
+    "node_name": "VALVE-020",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-071",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-021",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-072",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-022",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-073",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-023",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-074",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-024",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-075",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-025",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-076",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-026",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-077",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-027",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-078",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-028",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-079",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-029",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-080",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-030",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-081",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-031",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-082",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-032",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-083",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-033",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-084",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-034",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-085",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-035",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-086",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-036",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-087",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-037",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-088",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-038",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-089",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-039",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-090",
+    "facility_id": "FAC-002",
+    "node_name": "VALVE-040",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-091",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-041",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-092",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-042",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-093",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-043",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-094",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-044",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-095",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-045",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-096",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-046",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-097",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-047",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-098",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-048",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-099",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-049",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-100",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-050",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-101",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-051",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-102",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-052",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-103",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-053",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-104",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-054",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-105",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-055",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-106",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-056",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-107",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-057",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-108",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-058",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-109",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-059",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  },
+  {
+    "node_id": "NODE-110",
+    "facility_id": "FAC-003",
+    "node_name": "VALVE-060",
+    "node_type": "VALVE",
+    "created_at": "2026-10-30 05:55:46"
+  }
+]

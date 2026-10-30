@@ -1,0 +1,29 @@
+[
+  {
+    "mode_id": "MODE-001",
+    "facility_id": "FAC-001",
+    "mode_name": "NORMAL",
+    "description": "Normal water processing operation",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "status": "ACTIVE"
+  },
+  {
+    "mode_id": "MODE-002",
+    "facility_id": "FAC-002",
+    "mode_name": "NORMAL",
+    "description": "Normal water processing operation",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "status": "ACTIVE"
+  },
+  {
+    "mode_id": "MODE-003",
+    "facility_id": "FAC-003",
+    "mode_name": "NORMAL",
+    "description": "Normal water processing operation",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "status": "ACTIVE"
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "pipe_id": "PIPE-001",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-001",
+    "target_node_id": "NODE-002",
+    "length_meters": 155.34,
+    "diameter_mm": 119.87,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-002",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-002",
+    "target_node_id": "NODE-003",
+    "length_meters": 94.65,
+    "diameter_mm": 72.82,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-003",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-003",
+    "target_node_id": "NODE-004",
+    "length_meters": 299.25,
+    "diameter_mm": 55.74,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-004",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-004",
+    "target_node_id": "NODE-005",
+    "length_meters": 195.56,
+    "diameter_mm": 193.16,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-005",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-005",
+    "target_node_id": "NODE-006",
+    "length_meters": 259.23,
+    "diameter_mm": 153.82,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-006",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-006",
+    "target_node_id": "NODE-007",
+    "length_meters": 87.42,
+    "diameter_mm": 198.49,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-007",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-007",
+    "target_node_id": "NODE-021",
+    "length_meters": 229.92,
+    "diameter_mm": 126.68,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-008",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-021",
+    "target_node_id": "NODE-022",
+    "length_meters": 251.98,
+    "diameter_mm": 68.49,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-009",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-022",
+    "target_node_id": "NODE-023",
+    "length_meters": 227.36,
+    "diameter_mm": 192.19,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-010",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-023",
+    "target_node_id": "NODE-024",
+    "length_meters": 135.25,
+    "diameter_mm": 189.01,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-011",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-024",
+    "target_node_id": "NODE-025",
+    "length_meters": 172.83,
+    "diameter_mm": 72.84,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-012",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-025",
+    "target_node_id": "NODE-026",
+    "length_meters": 81.26,
+    "diameter_mm": 135.01,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-013",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-026",
+    "target_node_id": "NODE-027",
+    "length_meters": 15.16,
+    "diameter_mm": 114.74,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-014",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-027",
+    "target_node_id": "NODE-028",
+    "length_meters": 177.39,
+    "diameter_mm": 63.4,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-015",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-028",
+    "target_node_id": "NODE-029",
+    "length_meters": 127.26,
+    "diameter_mm": 170.97,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-016",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-029",
+    "target_node_id": "NODE-030",
+    "length_meters": 100.81,
+    "diameter_mm": 181.52,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-017",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-030",
+    "target_node_id": "NODE-051",
+    "length_meters": 186.12,
+    "diameter_mm": 79.32,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-018",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-051",
+    "target_node_id": "NODE-052",
+    "length_meters": 222.42,
+    "diameter_mm": 157.85,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-019",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-052",
+    "target_node_id": "NODE-053",
+    "length_meters": 120.03,
+    "diameter_mm": 129.71,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-020",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-053",
+    "target_node_id": "NODE-054",
+    "length_meters": 28.17,
+    "diameter_mm": 141.11,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-021",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-054",
+    "target_node_id": "NODE-055",
+    "length_meters": 54.42,
+    "diameter_mm": 123.57,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-022",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-055",
+    "target_node_id": "NODE-056",
+    "length_meters": 68.54,
+    "diameter_mm": 110.5,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-023",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-056",
+    "target_node_id": "NODE-057",
+    "length_meters": 28.62,
+    "diameter_mm": 193.97,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-024",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-057",
+    "target_node_id": "NODE-058",
+    "length_meters": 147.17,
+    "diameter_mm": 189.37,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-025",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-058",
+    "target_node_id": "NODE-059",
+    "length_meters": 266.31,
+    "diameter_mm": 110.39,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-026",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-059",
+    "target_node_id": "NODE-060",
+    "length_meters": 132.97,
+    "diameter_mm": 78.1,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-027",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-060",
+    "target_node_id": "NODE-061",
+    "length_meters": 224.8,
+    "diameter_mm": 99.83,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-028",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-061",
+    "target_node_id": "NODE-062",
+    "length_meters": 297.25,
+    "diameter_mm": 171.73,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-029",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-062",
+    "target_node_id": "NODE-063",
+    "length_meters": 24.61,
+    "diameter_mm": 148.05,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-030",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-063",
+    "target_node_id": "NODE-064",
+    "length_meters": 141.59,
+    "diameter_mm": 83.45,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-031",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-064",
+    "target_node_id": "NODE-065",
+    "length_meters": 46.56,
+    "diameter_mm": 92.82,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-032",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-065",
+    "target_node_id": "NODE-066",
+    "length_meters": 61.8,
+    "diameter_mm": 121.77,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-033",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-066",
+    "target_node_id": "NODE-067",
+    "length_meters": 134.08,
+    "diameter_mm": 109.23,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-034",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-067",
+    "target_node_id": "NODE-068",
+    "length_meters": 27.86,
+    "diameter_mm": 83.56,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-035",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-068",
+    "target_node_id": "NODE-069",
+    "length_meters": 50.42,
+    "diameter_mm": 196.94,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-036",
+    "facility_id": "FAC-001",
+    "source_node_id": "NODE-069",
+    "target_node_id": "NODE-070",
+    "length_meters": 74.4,
+    "diameter_mm": 126.63,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-037",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-008",
+    "target_node_id": "NODE-009",
+    "length_meters": 143.35,
+    "diameter_mm": 60.49,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-038",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-009",
+    "target_node_id": "NODE-010",
+    "length_meters": 157.08,
+    "diameter_mm": 135.7,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-039",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-010",
+    "target_node_id": "NODE-011",
+    "length_meters": 268.24,
+    "diameter_mm": 190.61,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-040",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-011",
+    "target_node_id": "NODE-012",
+    "length_meters": 253.29,
+    "diameter_mm": 61.41,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-041",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-012",
+    "target_node_id": "NODE-013",
+    "length_meters": 204.68,
+    "diameter_mm": 187.65,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-042",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-013",
+    "target_node_id": "NODE-014",
+    "length_meters": 21.42,
+    "diameter_mm": 164.94,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-043",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-014",
+    "target_node_id": "NODE-031",
+    "length_meters": 171.35,
+    "diameter_mm": 149.03,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-044",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-031",
+    "target_node_id": "NODE-032",
+    "length_meters": 208.79,
+    "diameter_mm": 74.33,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-045",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-032",
+    "target_node_id": "NODE-033",
+    "length_meters": 107.92,
+    "diameter_mm": 173.2,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-046",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-033",
+    "target_node_id": "NODE-034",
+    "length_meters": 160.61,
+    "diameter_mm": 146.82,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-047",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-034",
+    "target_node_id": "NODE-035",
+    "length_meters": 287.51,
+    "diameter_mm": 195.14,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-048",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-035",
+    "target_node_id": "NODE-036",
+    "length_meters": 21.55,
+    "diameter_mm": 132.72,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-049",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-036",
+    "target_node_id": "NODE-037",
+    "length_meters": 88.27,
+    "diameter_mm": 95.87,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-050",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-037",
+    "target_node_id": "NODE-038",
+    "length_meters": 92.58,
+    "diameter_mm": 103.29,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-051",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-038",
+    "target_node_id": "NODE-039",
+    "length_meters": 28.81,
+    "diameter_mm": 69.9,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-052",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-039",
+    "target_node_id": "NODE-040",
+    "length_meters": 188.49,
+    "diameter_mm": 182.17,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-053",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-040",
+    "target_node_id": "NODE-071",
+    "length_meters": 134.08,
+    "diameter_mm": 77.03,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-054",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-071",
+    "target_node_id": "NODE-072",
+    "length_meters": 140.84,
+    "diameter_mm": 181.25,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-055",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-072",
+    "target_node_id": "NODE-073",
+    "length_meters": 102.24,
+    "diameter_mm": 80.13,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-056",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-073",
+    "target_node_id": "NODE-074",
+    "length_meters": 290.54,
+    "diameter_mm": 181.24,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-057",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-074",
+    "target_node_id": "NODE-075",
+    "length_meters": 19.12,
+    "diameter_mm": 152.54,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-058",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-075",
+    "target_node_id": "NODE-076",
+    "length_meters": 45.46,
+    "diameter_mm": 101.84,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-059",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-076",
+    "target_node_id": "NODE-077",
+    "length_meters": 112.42,
+    "diameter_mm": 102.3,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-060",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-077",
+    "target_node_id": "NODE-078",
+    "length_meters": 248.91,
+    "diameter_mm": 100.73,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-061",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-078",
+    "target_node_id": "NODE-079",
+    "length_meters": 66.73,
+    "diameter_mm": 122.43,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-062",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-079",
+    "target_node_id": "NODE-080",
+    "length_meters": 175.38,
+    "diameter_mm": 139.71,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-063",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-080",
+    "target_node_id": "NODE-081",
+    "length_meters": 297.06,
+    "diameter_mm": 68.08,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-064",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-081",
+    "target_node_id": "NODE-082",
+    "length_meters": 190.0,
+    "diameter_mm": 144.79,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-065",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-082",
+    "target_node_id": "NODE-083",
+    "length_meters": 228.59,
+    "diameter_mm": 52.52,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-066",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-083",
+    "target_node_id": "NODE-084",
+    "length_meters": 238.93,
+    "diameter_mm": 68.02,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-067",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-084",
+    "target_node_id": "NODE-085",
+    "length_meters": 106.59,
+    "diameter_mm": 92.16,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-068",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-085",
+    "target_node_id": "NODE-086",
+    "length_meters": 136.0,
+    "diameter_mm": 150.66,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-069",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-086",
+    "target_node_id": "NODE-087",
+    "length_meters": 120.45,
+    "diameter_mm": 55.32,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-070",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-087",
+    "target_node_id": "NODE-088",
+    "length_meters": 43.28,
+    "diameter_mm": 128.76,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-071",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-088",
+    "target_node_id": "NODE-089",
+    "length_meters": 204.79,
+    "diameter_mm": 140.07,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-072",
+    "facility_id": "FAC-002",
+    "source_node_id": "NODE-089",
+    "target_node_id": "NODE-090",
+    "length_meters": 51.98,
+    "diameter_mm": 164.01,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-073",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-015",
+    "target_node_id": "NODE-016",
+    "length_meters": 110.35,
+    "diameter_mm": 91.69,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-074",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-016",
+    "target_node_id": "NODE-017",
+    "length_meters": 85.2,
+    "diameter_mm": 162.09,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-075",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-017",
+    "target_node_id": "NODE-018",
+    "length_meters": 176.56,
+    "diameter_mm": 138.44,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-076",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-018",
+    "target_node_id": "NODE-019",
+    "length_meters": 171.85,
+    "diameter_mm": 195.82,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-077",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-019",
+    "target_node_id": "NODE-020",
+    "length_meters": 238.0,
+    "diameter_mm": 52.41,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-078",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-020",
+    "target_node_id": "NODE-041",
+    "length_meters": 41.13,
+    "diameter_mm": 177.5,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-079",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-041",
+    "target_node_id": "NODE-042",
+    "length_meters": 21.8,
+    "diameter_mm": 156.72,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-080",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-042",
+    "target_node_id": "NODE-043",
+    "length_meters": 96.83,
+    "diameter_mm": 98.29,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-081",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-043",
+    "target_node_id": "NODE-044",
+    "length_meters": 118.6,
+    "diameter_mm": 58.04,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-082",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-044",
+    "target_node_id": "NODE-045",
+    "length_meters": 241.46,
+    "diameter_mm": 181.8,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-083",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-045",
+    "target_node_id": "NODE-046",
+    "length_meters": 24.54,
+    "diameter_mm": 102.54,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-084",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-046",
+    "target_node_id": "NODE-047",
+    "length_meters": 211.55,
+    "diameter_mm": 149.53,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-085",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-047",
+    "target_node_id": "NODE-048",
+    "length_meters": 115.84,
+    "diameter_mm": 148.84,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-086",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-048",
+    "target_node_id": "NODE-049",
+    "length_meters": 217.16,
+    "diameter_mm": 55.54,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-087",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-049",
+    "target_node_id": "NODE-050",
+    "length_meters": 186.11,
+    "diameter_mm": 91.64,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-088",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-050",
+    "target_node_id": "NODE-091",
+    "length_meters": 71.1,
+    "diameter_mm": 166.92,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-089",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-091",
+    "target_node_id": "NODE-092",
+    "length_meters": 99.85,
+    "diameter_mm": 58.57,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-090",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-092",
+    "target_node_id": "NODE-093",
+    "length_meters": 125.52,
+    "diameter_mm": 59.27,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-091",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-093",
+    "target_node_id": "NODE-094",
+    "length_meters": 258.97,
+    "diameter_mm": 74.59,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-092",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-094",
+    "target_node_id": "NODE-095",
+    "length_meters": 272.67,
+    "diameter_mm": 184.36,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-093",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-095",
+    "target_node_id": "NODE-096",
+    "length_meters": 223.79,
+    "diameter_mm": 84.69,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-094",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-096",
+    "target_node_id": "NODE-097",
+    "length_meters": 266.38,
+    "diameter_mm": 181.74,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-095",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-097",
+    "target_node_id": "NODE-098",
+    "length_meters": 227.06,
+    "diameter_mm": 125.06,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-096",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-098",
+    "target_node_id": "NODE-099",
+    "length_meters": 27.56,
+    "diameter_mm": 145.26,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-097",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-099",
+    "target_node_id": "NODE-100",
+    "length_meters": 101.62,
+    "diameter_mm": 100.0,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-098",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-100",
+    "target_node_id": "NODE-101",
+    "length_meters": 112.34,
+    "diameter_mm": 75.43,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-099",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-101",
+    "target_node_id": "NODE-102",
+    "length_meters": 275.48,
+    "diameter_mm": 137.9,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-100",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-102",
+    "target_node_id": "NODE-103",
+    "length_meters": 75.92,
+    "diameter_mm": 168.38,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-101",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-103",
+    "target_node_id": "NODE-104",
+    "length_meters": 139.57,
+    "diameter_mm": 197.93,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-102",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-104",
+    "target_node_id": "NODE-105",
+    "length_meters": 188.72,
+    "diameter_mm": 198.18,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-103",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-105",
+    "target_node_id": "NODE-106",
+    "length_meters": 128.77,
+    "diameter_mm": 96.46,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-104",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-106",
+    "target_node_id": "NODE-107",
+    "length_meters": 119.69,
+    "diameter_mm": 88.4,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-105",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-107",
+    "target_node_id": "NODE-108",
+    "length_meters": 22.0,
+    "diameter_mm": 161.27,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-106",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-108",
+    "target_node_id": "NODE-109",
+    "length_meters": 45.09,
+    "diameter_mm": 166.61,
+    "status": "ACTIVE"
+  },
+  {
+    "pipe_id": "PIPE-107",
+    "facility_id": "FAC-003",
+    "source_node_id": "NODE-109",
+    "target_node_id": "NODE-110",
+    "length_meters": 253.42,
+    "diameter_mm": 60.29,
+    "status": "ACTIVE"
+  }
+]

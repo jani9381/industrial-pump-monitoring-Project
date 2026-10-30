@@ -1,0 +1,2402 @@
+[
+  {
+    "alarm_id": "ALARM-100169",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 78.47, baseline 127.70, deviation 38.55%.",
+    "detected_at": "2026-10-30T06:56:23.342381+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100170",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 74.43, baseline 127.70, deviation 41.71%.",
+    "detected_at": "2026-10-30T06:56:23.345188+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100171",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 77.77, baseline 127.70, deviation 39.10%.",
+    "detected_at": "2026-10-30T06:56:23.345245+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100172",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 76.81, baseline 127.70, deviation 39.85%.",
+    "detected_at": "2026-10-30T06:56:23.345258+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100173",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 77.28, baseline 127.70, deviation 39.48%.",
+    "detected_at": "2026-10-30T06:56:23.345270+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100174",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 77.40, baseline 127.70, deviation 39.39%.",
+    "detected_at": "2026-10-30T06:56:23.345280+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100175",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 75.00, baseline 127.70, deviation 41.27%.",
+    "detected_at": "2026-10-30T06:56:23.345291+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100176",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 75.80, baseline 127.70, deviation 40.64%.",
+    "detected_at": "2026-10-30T06:56:23.345302+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100177",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 78.02, baseline 127.70, deviation 38.90%.",
+    "detected_at": "2026-10-30T06:56:23.345312+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100178",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 76.64, baseline 127.70, deviation 39.99%.",
+    "detected_at": "2026-10-30T06:56:23.345322+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100179",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001 reading 77.22, baseline 127.70, deviation 39.53%.",
+    "detected_at": "2026-10-30T06:56:23.345333+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100180",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-001",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-001. Latest reading: 78.65. Baseline: 127.70. Latest deviation: 38.41%. Peak deviation in analysis: 41.71%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.345344+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100121",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 82.33, baseline 140.10, deviation 41.23%.",
+    "detected_at": "2026-10-30T06:56:23.345355+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100122",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 85.03, baseline 140.10, deviation 39.30%.",
+    "detected_at": "2026-10-30T06:56:23.345368+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100123",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 84.96, baseline 140.10, deviation 39.35%.",
+    "detected_at": "2026-10-30T06:56:23.345379+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100124",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 83.25, baseline 140.10, deviation 40.57%.",
+    "detected_at": "2026-10-30T06:56:23.345398+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100125",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 84.02, baseline 140.10, deviation 40.03%.",
+    "detected_at": "2026-10-30T06:56:23.345408+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100126",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 81.66, baseline 140.10, deviation 41.71%.",
+    "detected_at": "2026-10-30T06:56:23.345418+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100127",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 84.40, baseline 140.10, deviation 39.75%.",
+    "detected_at": "2026-10-30T06:56:23.345428+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100128",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 82.12, baseline 140.10, deviation 41.39%.",
+    "detected_at": "2026-10-30T06:56:23.345439+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100129",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 83.81, baseline 140.10, deviation 40.17%.",
+    "detected_at": "2026-10-30T06:56:23.345449+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100130",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 82.36, baseline 140.10, deviation 41.21%.",
+    "detected_at": "2026-10-30T06:56:23.345459+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100131",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003 reading 83.38, baseline 140.10, deviation 40.49%.",
+    "detected_at": "2026-10-30T06:56:23.345469+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100132",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-003",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-003. Latest reading: 81.67. Baseline: 140.10. Latest deviation: 41.71%. Peak deviation in analysis: 41.71%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.345550+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100205",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 9.91, baseline 7.15, deviation 38.63%.",
+    "detected_at": "2026-10-30T06:56:23.345562+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100206",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 10.19, baseline 7.15, deviation 42.62%.",
+    "detected_at": "2026-10-30T06:56:23.345576+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100207",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 9.90, baseline 7.15, deviation 38.55%.",
+    "detected_at": "2026-10-30T06:56:23.345586+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100208",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 9.82, baseline 7.15, deviation 37.35%.",
+    "detected_at": "2026-10-30T06:56:23.345596+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100209",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 9.99, baseline 7.15, deviation 39.77%.",
+    "detected_at": "2026-10-30T06:56:23.345607+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100210",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 10.04, baseline 7.15, deviation 40.49%.",
+    "detected_at": "2026-10-30T06:56:23.345615+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100211",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 10.06, baseline 7.15, deviation 40.73%.",
+    "detected_at": "2026-10-30T06:56:23.345623+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100212",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 10.29, baseline 7.15, deviation 44.02%.",
+    "detected_at": "2026-10-30T06:56:23.345632+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100213",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 9.77, baseline 7.15, deviation 36.72%.",
+    "detected_at": "2026-10-30T06:56:23.345640+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100214",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 10.07, baseline 7.15, deviation 40.91%.",
+    "detected_at": "2026-10-30T06:56:23.345648+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100215",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008 reading 10.08, baseline 7.15, deviation 41.01%.",
+    "detected_at": "2026-10-30T06:56:23.345656+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100216",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-008",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-008. Latest reading: 10.15. Baseline: 7.15. Latest deviation: 42.03%. Peak deviation in analysis: 44.02%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.345665+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100133",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 57.67, baseline 93.52, deviation 38.33%.",
+    "detected_at": "2026-10-30T06:56:23.345673+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100134",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 56.03, baseline 93.52, deviation 40.09%.",
+    "detected_at": "2026-10-30T06:56:23.345682+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100135",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 57.57, baseline 93.52, deviation 38.44%.",
+    "detected_at": "2026-10-30T06:56:23.345690+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100136",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 57.42, baseline 93.52, deviation 38.61%.",
+    "detected_at": "2026-10-30T06:56:23.345698+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100137",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 55.80, baseline 93.52, deviation 40.34%.",
+    "detected_at": "2026-10-30T06:56:23.345706+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100138",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 55.87, baseline 93.52, deviation 40.26%.",
+    "detected_at": "2026-10-30T06:56:23.345715+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100139",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 55.07, baseline 93.52, deviation 41.12%.",
+    "detected_at": "2026-10-30T06:56:23.345723+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100140",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 56.93, baseline 93.52, deviation 39.12%.",
+    "detected_at": "2026-10-30T06:56:23.345732+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100141",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 55.56, baseline 93.52, deviation 40.59%.",
+    "detected_at": "2026-10-30T06:56:23.345740+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100142",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 57.78, baseline 93.52, deviation 38.22%.",
+    "detected_at": "2026-10-30T06:56:23.345749+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100143",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015 reading 57.17, baseline 93.52, deviation 38.87%.",
+    "detected_at": "2026-10-30T06:56:23.345757+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100144",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-015",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-015. Latest reading: 54.61. Baseline: 93.52. Latest deviation: 41.61%. Peak deviation in analysis: 41.61%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.345765+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100193",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 122.60, baseline 88.39, deviation 38.70%.",
+    "detected_at": "2026-10-30T06:56:23.345774+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100194",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 124.63, baseline 88.39, deviation 41.00%.",
+    "detected_at": "2026-10-30T06:56:23.345782+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100195",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 127.81, baseline 88.39, deviation 44.60%.",
+    "detected_at": "2026-10-30T06:56:23.345790+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100196",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 123.64, baseline 88.39, deviation 39.87%.",
+    "detected_at": "2026-10-30T06:56:23.345798+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100197",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 122.76, baseline 88.39, deviation 38.88%.",
+    "detected_at": "2026-10-30T06:56:23.345807+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100198",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 128.50, baseline 88.39, deviation 45.38%.",
+    "detected_at": "2026-10-30T06:56:23.345815+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100199",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 127.81, baseline 88.39, deviation 44.60%.",
+    "detected_at": "2026-10-30T06:56:23.345823+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100200",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 121.49, baseline 88.39, deviation 37.44%.",
+    "detected_at": "2026-10-30T06:56:23.345832+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100201",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 126.38, baseline 88.39, deviation 42.98%.",
+    "detected_at": "2026-10-30T06:56:23.345840+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100202",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 122.17, baseline 88.39, deviation 38.21%.",
+    "detected_at": "2026-10-30T06:56:23.345848+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100203",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017 reading 123.84, baseline 88.39, deviation 40.11%.",
+    "detected_at": "2026-10-30T06:56:23.345857+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100204",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-017",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-017. Latest reading: 123.90. Baseline: 88.39. Latest deviation: 40.17%. Peak deviation in analysis: 45.38%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.345865+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100229",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 125.75, baseline 90.35, deviation 39.19%.",
+    "detected_at": "2026-10-30T06:56:23.345874+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100230",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 122.34, baseline 90.35, deviation 35.41%.",
+    "detected_at": "2026-10-30T06:56:23.345882+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100231",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 126.95, baseline 90.35, deviation 40.52%.",
+    "detected_at": "2026-10-30T06:56:23.345891+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100232",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 123.84, baseline 90.35, deviation 37.08%.",
+    "detected_at": "2026-10-30T06:56:23.345899+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100233",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 123.33, baseline 90.35, deviation 36.51%.",
+    "detected_at": "2026-10-30T06:56:23.345907+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100234",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 123.19, baseline 90.35, deviation 36.36%.",
+    "detected_at": "2026-10-30T06:56:23.345916+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100235",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 126.85, baseline 90.35, deviation 40.41%.",
+    "detected_at": "2026-10-30T06:56:23.345924+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100236",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 125.56, baseline 90.35, deviation 38.97%.",
+    "detected_at": "2026-10-30T06:56:23.345933+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100237",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 125.67, baseline 90.35, deviation 39.10%.",
+    "detected_at": "2026-10-30T06:56:23.345941+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100238",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 125.44, baseline 90.35, deviation 38.84%.",
+    "detected_at": "2026-10-30T06:56:23.345949+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100239",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025 reading 128.54, baseline 90.35, deviation 42.28%.",
+    "detected_at": "2026-10-30T06:56:23.345957+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100240",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-025",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-025. Latest reading: 127.15. Baseline: 90.35. Latest deviation: 40.73%. Peak deviation in analysis: 42.28%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.345966+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100217",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.71, baseline 5.26, deviation 84.53%.",
+    "detected_at": "2026-10-30T06:56:23.345974+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100218",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 10.17, baseline 5.26, deviation 93.35%.",
+    "detected_at": "2026-10-30T06:56:23.345983+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100219",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.77, baseline 5.26, deviation 85.71%.",
+    "detected_at": "2026-10-30T06:56:23.345991+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100220",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.90, baseline 5.26, deviation 88.14%.",
+    "detected_at": "2026-10-30T06:56:23.346001+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100221",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.87, baseline 5.26, deviation 87.55%.",
+    "detected_at": "2026-10-30T06:56:23.346011+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100222",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.96, baseline 5.26, deviation 89.30%.",
+    "detected_at": "2026-10-30T06:56:23.346021+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100223",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 10.10, baseline 5.26, deviation 92.00%.",
+    "detected_at": "2026-10-30T06:56:23.346031+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100224",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.93, baseline 5.26, deviation 88.69%.",
+    "detected_at": "2026-10-30T06:56:23.346040+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100225",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.72, baseline 5.26, deviation 84.74%.",
+    "detected_at": "2026-10-30T06:56:23.346050+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100226",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 9.77, baseline 5.26, deviation 85.65%.",
+    "detected_at": "2026-10-30T06:56:23.346060+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100227",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026 reading 10.02, baseline 5.26, deviation 90.33%.",
+    "detected_at": "2026-10-30T06:56:23.346069+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100228",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-026",
+    "alarm_type": "PUMP_PRESSURE_ANOMALY",
+    "severity": "CRITICAL",
+    "description": "PUMP_PRESSURE_ANOMALY: sensor SNS-026. Latest reading: 10.10. Baseline: 5.26. Latest deviation: 92.00%. Peak deviation in analysis: 93.35%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346079+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100157",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 53.22, baseline 86.50, deviation 38.47%.",
+    "detected_at": "2026-10-30T06:56:23.346089+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100158",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 50.87, baseline 86.50, deviation 41.19%.",
+    "detected_at": "2026-10-30T06:56:23.346099+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100159",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 51.77, baseline 86.50, deviation 40.16%.",
+    "detected_at": "2026-10-30T06:56:23.346110+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100160",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 51.61, baseline 86.50, deviation 40.34%.",
+    "detected_at": "2026-10-30T06:56:23.346120+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100161",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 50.40, baseline 86.50, deviation 41.74%.",
+    "detected_at": "2026-10-30T06:56:23.346142+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100162",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 51.75, baseline 86.50, deviation 40.17%.",
+    "detected_at": "2026-10-30T06:56:23.346153+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100163",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 51.95, baseline 86.50, deviation 39.94%.",
+    "detected_at": "2026-10-30T06:56:23.346165+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100164",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 52.94, baseline 86.50, deviation 38.79%.",
+    "detected_at": "2026-10-30T06:56:23.346175+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100165",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 53.09, baseline 86.50, deviation 38.62%.",
+    "detected_at": "2026-10-30T06:56:23.346184+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100166",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 52.78, baseline 86.50, deviation 38.98%.",
+    "detected_at": "2026-10-30T06:56:23.346195+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100167",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035 reading 50.42, baseline 86.50, deviation 41.72%.",
+    "detected_at": "2026-10-30T06:56:23.346205+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100168",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-035",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-035. Latest reading: 52.26. Baseline: 86.50. Latest deviation: 39.58%. Peak deviation in analysis: 41.74%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346214+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100145",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 80.88, baseline 133.43, deviation 39.39%.",
+    "detected_at": "2026-10-30T06:56:23.346225+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100146",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 79.92, baseline 133.43, deviation 40.11%.",
+    "detected_at": "2026-10-30T06:56:23.346235+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100147",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 78.81, baseline 133.43, deviation 40.94%.",
+    "detected_at": "2026-10-30T06:56:23.346244+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100148",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 78.34, baseline 133.43, deviation 41.29%.",
+    "detected_at": "2026-10-30T06:56:23.346255+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100149",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 79.11, baseline 133.43, deviation 40.71%.",
+    "detected_at": "2026-10-30T06:56:23.346263+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100150",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 78.60, baseline 133.43, deviation 41.10%.",
+    "detected_at": "2026-10-30T06:56:23.346272+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100151",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 80.04, baseline 133.43, deviation 40.02%.",
+    "detected_at": "2026-10-30T06:56:23.346280+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100152",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 79.80, baseline 133.43, deviation 40.20%.",
+    "detected_at": "2026-10-30T06:56:23.346288+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100153",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 79.64, baseline 133.43, deviation 40.32%.",
+    "detected_at": "2026-10-30T06:56:23.346297+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100154",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 78.03, baseline 133.43, deviation 41.52%.",
+    "detected_at": "2026-10-30T06:56:23.346305+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100155",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037 reading 78.81, baseline 133.43, deviation 40.93%.",
+    "detected_at": "2026-10-30T06:56:23.346313+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100156",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-037",
+    "alarm_type": "PUMP_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PUMP_FLOW_ANOMALY: sensor SNS-037. Latest reading: 78.41. Baseline: 133.43. Latest deviation: 41.24%. Peak deviation in analysis: 41.52%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346321+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100181",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 51.40, baseline 99.01, deviation 48.08%.",
+    "detected_at": "2026-10-30T06:56:23.346339+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100182",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "HIGH",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 48.62, baseline 99.01, deviation 50.90%.",
+    "detected_at": "2026-10-30T06:56:23.346348+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100183",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 50.15, baseline 99.01, deviation 49.35%.",
+    "detected_at": "2026-10-30T06:56:23.346357+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100184",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "HIGH",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 49.31, baseline 99.01, deviation 50.20%.",
+    "detected_at": "2026-10-30T06:56:23.346365+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100185",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "HIGH",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 49.42, baseline 99.01, deviation 50.09%.",
+    "detected_at": "2026-10-30T06:56:23.346374+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100186",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "HIGH",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 49.35, baseline 99.01, deviation 50.15%.",
+    "detected_at": "2026-10-30T06:56:23.346383+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100187",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 49.57, baseline 99.01, deviation 49.94%.",
+    "detected_at": "2026-10-30T06:56:23.346391+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100188",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "HIGH",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 48.70, baseline 99.01, deviation 50.82%.",
+    "detected_at": "2026-10-30T06:56:23.346400+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100189",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "HIGH",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 48.90, baseline 99.01, deviation 50.61%.",
+    "detected_at": "2026-10-30T06:56:23.346408+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100190",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 50.35, baseline 99.01, deviation 49.15%.",
+    "detected_at": "2026-10-30T06:56:23.346417+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100191",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "SENSOR_ANOMALY: sensor SNS-070 reading 51.14, baseline 99.01, deviation 48.35%.",
+    "detected_at": "2026-10-30T06:56:23.346425+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100192",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-070",
+    "alarm_type": "SENSOR_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "SENSOR_ANOMALY: sensor SNS-070. Latest reading: 49.78. Baseline: 34.97. Latest deviation: 42.35%. Peak deviation in analysis: 46.98%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346434+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100049",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 66.83, baseline 125.48, deviation 46.74%.",
+    "detected_at": "2026-10-30T06:56:23.346443+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100050",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 65.23, baseline 125.48, deviation 48.02%.",
+    "detected_at": "2026-10-30T06:56:23.346452+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100051",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 66.07, baseline 125.48, deviation 47.35%.",
+    "detected_at": "2026-10-30T06:56:23.346460+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100052",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 66.94, baseline 125.48, deviation 46.65%.",
+    "detected_at": "2026-10-30T06:56:23.346468+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100053",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 66.66, baseline 125.48, deviation 46.88%.",
+    "detected_at": "2026-10-30T06:56:23.346477+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100054",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 66.92, baseline 125.48, deviation 46.67%.",
+    "detected_at": "2026-10-30T06:56:23.346486+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100055",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 67.42, baseline 125.48, deviation 46.27%.",
+    "detected_at": "2026-10-30T06:56:23.346494+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100056",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 65.87, baseline 125.48, deviation 47.50%.",
+    "detected_at": "2026-10-30T06:56:23.346503+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100057",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 67.36, baseline 125.48, deviation 46.31%.",
+    "detected_at": "2026-10-30T06:56:23.346512+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100058",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 64.50, baseline 125.48, deviation 48.60%.",
+    "detected_at": "2026-10-30T06:56:23.346520+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100059",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093 reading 67.59, baseline 125.48, deviation 46.13%.",
+    "detected_at": "2026-10-30T06:56:23.346529+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100060",
+    "facility_id": "FAC-001",
+    "sensor_id": "SNS-093",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-093. Latest reading: 66.32. Baseline: 125.48. Latest deviation: 47.14%. Peak deviation in analysis: 48.60%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346537+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100037",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 65.92, baseline 124.83, deviation 47.19%.",
+    "detected_at": "2026-10-30T06:56:23.346547+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100038",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 64.31, baseline 124.83, deviation 48.48%.",
+    "detected_at": "2026-10-30T06:56:23.346556+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100039",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 66.13, baseline 124.83, deviation 47.02%.",
+    "detected_at": "2026-10-30T06:56:23.346564+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100040",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 67.03, baseline 124.83, deviation 46.31%.",
+    "detected_at": "2026-10-30T06:56:23.346573+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100041",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 65.47, baseline 124.83, deviation 47.56%.",
+    "detected_at": "2026-10-30T06:56:23.346581+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100042",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 67.07, baseline 124.83, deviation 46.27%.",
+    "detected_at": "2026-10-30T06:56:23.346590+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100043",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 66.37, baseline 124.83, deviation 46.83%.",
+    "detected_at": "2026-10-30T06:56:23.346598+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100044",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 67.94, baseline 124.83, deviation 45.57%.",
+    "detected_at": "2026-10-30T06:56:23.346607+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100045",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 64.04, baseline 124.83, deviation 48.70%.",
+    "detected_at": "2026-10-30T06:56:23.346615+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100046",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 65.92, baseline 124.83, deviation 47.19%.",
+    "detected_at": "2026-10-30T06:56:23.346624+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100047",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107 reading 64.96, baseline 124.83, deviation 47.96%.",
+    "detected_at": "2026-10-30T06:56:23.346632+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100048",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-107",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-107. Latest reading: 64.13. Baseline: 124.83. Latest deviation: 48.63%. Peak deviation in analysis: 48.70%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346640+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100061",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 46.70, baseline 125.13, deviation 62.68%.",
+    "detected_at": "2026-10-30T06:56:23.346656+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100062",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 46.69, baseline 125.13, deviation 62.69%.",
+    "detected_at": "2026-10-30T06:56:23.346665+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100063",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 48.01, baseline 125.13, deviation 61.63%.",
+    "detected_at": "2026-10-30T06:56:23.346674+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100064",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 46.60, baseline 125.13, deviation 62.76%.",
+    "detected_at": "2026-10-30T06:56:23.346693+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100065",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 48.04, baseline 125.13, deviation 61.61%.",
+    "detected_at": "2026-10-30T06:56:23.346703+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100066",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 47.80, baseline 125.13, deviation 61.80%.",
+    "detected_at": "2026-10-30T06:56:23.346714+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100067",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 47.88, baseline 125.13, deviation 61.73%.",
+    "detected_at": "2026-10-30T06:56:23.346724+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100068",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 47.54, baseline 125.13, deviation 62.01%.",
+    "detected_at": "2026-10-30T06:56:23.346735+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100069",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 47.14, baseline 125.13, deviation 62.33%.",
+    "detected_at": "2026-10-30T06:56:23.346745+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100070",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 49.40, baseline 125.13, deviation 60.52%.",
+    "detected_at": "2026-10-30T06:56:23.346757+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100071",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112 reading 48.41, baseline 125.13, deviation 61.32%.",
+    "detected_at": "2026-10-30T06:56:23.346767+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100072",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-112",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-112. Latest reading: 48.30. Baseline: 125.13. Latest deviation: 61.40%. Peak deviation in analysis: 62.76%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346778+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100013",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 65.83, baseline 125.56, deviation 47.57%.",
+    "detected_at": "2026-10-30T06:56:23.346788+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100014",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 67.64, baseline 125.56, deviation 46.13%.",
+    "detected_at": "2026-10-30T06:56:23.346799+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100015",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 66.25, baseline 125.56, deviation 47.24%.",
+    "detected_at": "2026-10-30T06:56:23.346810+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100016",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 66.05, baseline 125.56, deviation 47.39%.",
+    "detected_at": "2026-10-30T06:56:23.346822+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100017",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 66.05, baseline 125.56, deviation 47.39%.",
+    "detected_at": "2026-10-30T06:56:23.346833+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100018",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 64.40, baseline 125.56, deviation 48.71%.",
+    "detected_at": "2026-10-30T06:56:23.346843+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100019",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 64.72, baseline 125.56, deviation 48.45%.",
+    "detected_at": "2026-10-30T06:56:23.346854+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100020",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 66.46, baseline 125.56, deviation 47.07%.",
+    "detected_at": "2026-10-30T06:56:23.346862+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100021",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 65.67, baseline 125.56, deviation 47.70%.",
+    "detected_at": "2026-10-30T06:56:23.346874+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100022",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 64.37, baseline 125.56, deviation 48.73%.",
+    "detected_at": "2026-10-30T06:56:23.346893+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100023",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116 reading 65.83, baseline 125.56, deviation 47.57%.",
+    "detected_at": "2026-10-30T06:56:23.346905+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100024",
+    "facility_id": "FAC-002",
+    "sensor_id": "SNS-116",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-116. Latest reading: 67.05. Baseline: 125.56. Latest deviation: 46.60%. Peak deviation in analysis: 48.73%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.346926+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100025",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.20, baseline 125.23, deviation 48.73%.",
+    "detected_at": "2026-10-30T06:56:23.346939+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100026",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 67.40, baseline 125.23, deviation 46.18%.",
+    "detected_at": "2026-10-30T06:56:23.346950+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100027",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 67.68, baseline 125.23, deviation 45.96%.",
+    "detected_at": "2026-10-30T06:56:23.346961+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100028",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.84, baseline 125.23, deviation 48.22%.",
+    "detected_at": "2026-10-30T06:56:23.346972+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100029",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.25, baseline 125.23, deviation 48.69%.",
+    "detected_at": "2026-10-30T06:56:23.346983+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100030",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.31, baseline 125.23, deviation 48.65%.",
+    "detected_at": "2026-10-30T06:56:23.346994+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100031",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.40, baseline 125.23, deviation 48.57%.",
+    "detected_at": "2026-10-30T06:56:23.347009+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100032",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 66.02, baseline 125.23, deviation 47.28%.",
+    "detected_at": "2026-10-30T06:56:23.347019+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100033",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.04, baseline 125.23, deviation 48.86%.",
+    "detected_at": "2026-10-30T06:56:23.347029+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100034",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.32, baseline 125.23, deviation 48.64%.",
+    "detected_at": "2026-10-30T06:56:23.347040+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100035",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145 reading 64.89, baseline 125.23, deviation 48.18%.",
+    "detected_at": "2026-10-30T06:56:23.347050+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100036",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-145",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-145. Latest reading: 67.96. Baseline: 125.23. Latest deviation: 45.73%. Peak deviation in analysis: 48.86%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.347060+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100109",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 47.00, baseline 125.36, deviation 62.51%.",
+    "detected_at": "2026-10-30T06:56:23.347070+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100110",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 47.27, baseline 125.36, deviation 62.29%.",
+    "detected_at": "2026-10-30T06:56:23.347081+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100111",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 48.19, baseline 125.36, deviation 61.56%.",
+    "detected_at": "2026-10-30T06:56:23.347091+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100112",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 46.61, baseline 125.36, deviation 62.82%.",
+    "detected_at": "2026-10-30T06:56:23.347101+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100113",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 47.80, baseline 125.36, deviation 61.87%.",
+    "detected_at": "2026-10-30T06:56:23.347111+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100114",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 48.22, baseline 125.36, deviation 61.53%.",
+    "detected_at": "2026-10-30T06:56:23.347123+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100115",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 46.82, baseline 125.36, deviation 62.65%.",
+    "detected_at": "2026-10-30T06:56:23.347132+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100116",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 47.73, baseline 125.36, deviation 61.93%.",
+    "detected_at": "2026-10-30T06:56:23.347140+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100117",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 48.88, baseline 125.36, deviation 61.01%.",
+    "detected_at": "2026-10-30T06:56:23.347148+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100118",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 47.46, baseline 125.36, deviation 62.14%.",
+    "detected_at": "2026-10-30T06:56:23.347157+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100119",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154 reading 49.09, baseline 125.36, deviation 60.84%.",
+    "detected_at": "2026-10-30T06:56:23.347165+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100120",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-154",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-154. Latest reading: 48.31. Baseline: 125.36. Latest deviation: 61.46%. Peak deviation in analysis: 62.82%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.347174+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100073",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 49.13, baseline 125.17, deviation 60.75%.",
+    "detected_at": "2026-10-30T06:56:23.347183+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100074",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 48.49, baseline 125.17, deviation 61.26%.",
+    "detected_at": "2026-10-30T06:56:23.347191+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100075",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 48.65, baseline 125.17, deviation 61.13%.",
+    "detected_at": "2026-10-30T06:56:23.347200+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100076",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 49.23, baseline 125.17, deviation 60.67%.",
+    "detected_at": "2026-10-30T06:56:23.347209+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100077",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 47.37, baseline 125.17, deviation 62.16%.",
+    "detected_at": "2026-10-30T06:56:23.347218+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100078",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 48.47, baseline 125.17, deviation 61.28%.",
+    "detected_at": "2026-10-30T06:56:23.347226+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100079",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 47.30, baseline 125.17, deviation 62.21%.",
+    "detected_at": "2026-10-30T06:56:23.347234+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100080",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 48.04, baseline 125.17, deviation 61.62%.",
+    "detected_at": "2026-10-30T06:56:23.347243+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100081",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 47.70, baseline 125.17, deviation 61.89%.",
+    "detected_at": "2026-10-30T06:56:23.347251+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100082",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 48.85, baseline 125.17, deviation 60.97%.",
+    "detected_at": "2026-10-30T06:56:23.347259+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100083",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156 reading 48.91, baseline 125.17, deviation 60.92%.",
+    "detected_at": "2026-10-30T06:56:23.347268+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100084",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-156",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-156. Latest reading: 47.58. Baseline: 125.17. Latest deviation: 61.99%. Peak deviation in analysis: 62.21%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.347276+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100001",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.44, baseline 124.79, deviation 48.36%.",
+    "detected_at": "2026-10-30T06:56:23.347285+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100002",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.79, baseline 124.79, deviation 48.08%.",
+    "detected_at": "2026-10-30T06:56:23.347293+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100003",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.61, baseline 124.79, deviation 48.22%.",
+    "detected_at": "2026-10-30T06:56:23.347302+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100004",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.48, baseline 124.79, deviation 48.33%.",
+    "detected_at": "2026-10-30T06:56:23.347310+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100005",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 66.36, baseline 124.79, deviation 46.83%.",
+    "detected_at": "2026-10-30T06:56:23.347319+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100006",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.04, baseline 124.79, deviation 48.68%.",
+    "detected_at": "2026-10-30T06:56:23.347327+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100007",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.47, baseline 124.79, deviation 48.33%.",
+    "detected_at": "2026-10-30T06:56:23.347336+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100008",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.58, baseline 124.79, deviation 48.25%.",
+    "detected_at": "2026-10-30T06:56:23.347348+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100009",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 65.40, baseline 124.79, deviation 47.60%.",
+    "detected_at": "2026-10-30T06:56:23.347356+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100010",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 64.25, baseline 124.79, deviation 48.52%.",
+    "detected_at": "2026-10-30T06:56:23.347365+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100011",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158 reading 67.32, baseline 124.79, deviation 46.05%.",
+    "detected_at": "2026-10-30T06:56:23.347373+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100012",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-158",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "MEDIUM",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-158. Latest reading: 64.61. Baseline: 124.79. Latest deviation: 48.23%. Peak deviation in analysis: 48.68%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.347382+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100097",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 48.55, baseline 125.13, deviation 61.20%.",
+    "detected_at": "2026-10-30T06:56:23.347391+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100098",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 47.33, baseline 125.13, deviation 62.18%.",
+    "detected_at": "2026-10-30T06:56:23.347402+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100099",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 49.41, baseline 125.13, deviation 60.51%.",
+    "detected_at": "2026-10-30T06:56:23.347411+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100100",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 48.74, baseline 125.13, deviation 61.05%.",
+    "detected_at": "2026-10-30T06:56:23.347419+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100101",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 48.03, baseline 125.13, deviation 61.61%.",
+    "detected_at": "2026-10-30T06:56:23.347428+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100102",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 48.96, baseline 125.13, deviation 60.87%.",
+    "detected_at": "2026-10-30T06:56:23.347436+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100103",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 46.91, baseline 125.13, deviation 62.51%.",
+    "detected_at": "2026-10-30T06:56:23.347444+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100104",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 48.72, baseline 125.13, deviation 61.07%.",
+    "detected_at": "2026-10-30T06:56:23.347453+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100105",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 49.29, baseline 125.13, deviation 60.61%.",
+    "detected_at": "2026-10-30T06:56:23.347461+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100106",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 47.80, baseline 125.13, deviation 61.80%.",
+    "detected_at": "2026-10-30T06:56:23.347470+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100107",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160. Latest reading: 48.18. Baseline: 125.13. Latest deviation: 61.50%. Peak deviation in analysis: 62.51%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.347478+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100108",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-160",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-160 reading 48.18, baseline 125.13, deviation 61.50%.",
+    "detected_at": "2026-10-30T06:56:23.347487+00:00",
+    "status": "RESOLVED"
+  },
+  {
+    "alarm_id": "ALARM-100085",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 48.68, baseline 124.81, deviation 61.00%.",
+    "detected_at": "2026-10-30T06:56:23.347501+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100086",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 48.97, baseline 124.81, deviation 60.76%.",
+    "detected_at": "2026-10-30T06:56:23.347510+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100087",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 47.07, baseline 124.81, deviation 62.28%.",
+    "detected_at": "2026-10-30T06:56:23.347519+00:00",
+    "status": "RESOLVED"
+  },
+  {
+    "alarm_id": "ALARM-100088",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 48.00, baseline 124.81, deviation 61.54%.",
+    "detected_at": "2026-10-30T06:56:23.347527+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100089",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 47.90, baseline 124.81, deviation 61.62%.",
+    "detected_at": "2026-10-30T06:56:23.347536+00:00",
+    "status": "RESOLVED"
+  },
+  {
+    "alarm_id": "ALARM-100090",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165. Latest reading: 49.03. Baseline: 124.81. Latest deviation: 60.71%. Peak deviation in analysis: 62.61%. Matching telemetry records: 12.",
+    "detected_at": "2026-10-30T06:56:23.347544+00:00",
+    "status": "ACKNOWLEDGED"
+  },
+  {
+    "alarm_id": "ALARM-100091",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 47.00, baseline 124.81, deviation 62.34%.",
+    "detected_at": "2026-10-30T06:56:23.347553+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100092",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 49.43, baseline 124.81, deviation 60.39%.",
+    "detected_at": "2026-10-30T06:56:23.347561+00:00",
+    "status": "OPEN"
+  },
+  {
+    "alarm_id": "ALARM-100093",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 46.67, baseline 124.81, deviation 62.61%.",
+    "detected_at": "2026-10-30T06:56:23.347569+00:00",
+    "status": "RESOLVED"
+  },
+  {
+    "alarm_id": "ALARM-100094",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 48.40, baseline 124.81, deviation 61.22%.",
+    "detected_at": "2026-10-30T06:56:23.347578+00:00",
+    "status": "RESOLVED"
+  },
+  {
+    "alarm_id": "ALARM-100095",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 49.31, baseline 124.81, deviation 60.49%.",
+    "detected_at": "2026-10-30T06:56:23.347587+00:00",
+    "status": "RESOLVED"
+  },
+  {
+    "alarm_id": "ALARM-100096",
+    "facility_id": "FAC-003",
+    "sensor_id": "SNS-165",
+    "alarm_type": "PIPELINE_FLOW_ANOMALY",
+    "severity": "HIGH",
+    "description": "PIPELINE_FLOW_ANOMALY: sensor SNS-165 reading 49.03, baseline 124.81, deviation 60.71%.",
+    "detected_at": "2026-10-30T06:56:23.347597+00:00",
+    "status": "RESOLVED"
+  }
+]

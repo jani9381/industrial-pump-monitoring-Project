@@ -1,0 +1,482 @@
+[
+  {
+    "valve_id": "VALVE-001",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-051",
+    "valve_name": "Control Valve 1",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-002",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-052",
+    "valve_name": "Control Valve 2",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-003",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-053",
+    "valve_name": "Control Valve 3",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-004",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-054",
+    "valve_name": "Control Valve 4",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-005",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-055",
+    "valve_name": "Control Valve 5",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-006",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-056",
+    "valve_name": "Control Valve 6",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-007",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-057",
+    "valve_name": "Control Valve 7",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-008",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-058",
+    "valve_name": "Control Valve 8",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-009",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-059",
+    "valve_name": "Control Valve 9",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-010",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-060",
+    "valve_name": "Control Valve 10",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-011",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-061",
+    "valve_name": "Control Valve 11",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-012",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-062",
+    "valve_name": "Control Valve 12",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-013",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-063",
+    "valve_name": "Control Valve 13",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-014",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-064",
+    "valve_name": "Control Valve 14",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-015",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-065",
+    "valve_name": "Control Valve 15",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-016",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-066",
+    "valve_name": "Control Valve 16",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-017",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-067",
+    "valve_name": "Control Valve 17",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-018",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-068",
+    "valve_name": "Control Valve 18",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-019",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-069",
+    "valve_name": "Control Valve 19",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-020",
+    "facility_id": "FAC-001",
+    "node_id": "NODE-070",
+    "valve_name": "Control Valve 20",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-021",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-071",
+    "valve_name": "Control Valve 21",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-022",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-072",
+    "valve_name": "Control Valve 22",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-023",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-073",
+    "valve_name": "Control Valve 23",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-024",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-074",
+    "valve_name": "Control Valve 24",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-025",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-075",
+    "valve_name": "Control Valve 25",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-026",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-076",
+    "valve_name": "Control Valve 26",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-027",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-077",
+    "valve_name": "Control Valve 27",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-028",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-078",
+    "valve_name": "Control Valve 28",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-029",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-079",
+    "valve_name": "Control Valve 29",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-030",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-080",
+    "valve_name": "Control Valve 30",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-031",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-081",
+    "valve_name": "Control Valve 31",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-032",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-082",
+    "valve_name": "Control Valve 32",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-033",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-083",
+    "valve_name": "Control Valve 33",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-034",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-084",
+    "valve_name": "Control Valve 34",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-035",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-085",
+    "valve_name": "Control Valve 35",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-036",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-086",
+    "valve_name": "Control Valve 36",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-037",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-087",
+    "valve_name": "Control Valve 37",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-038",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-088",
+    "valve_name": "Control Valve 38",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-039",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-089",
+    "valve_name": "Control Valve 39",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-040",
+    "facility_id": "FAC-002",
+    "node_id": "NODE-090",
+    "valve_name": "Control Valve 40",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-041",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-091",
+    "valve_name": "Control Valve 41",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-042",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-092",
+    "valve_name": "Control Valve 42",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-043",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-093",
+    "valve_name": "Control Valve 43",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-044",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-094",
+    "valve_name": "Control Valve 44",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-045",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-095",
+    "valve_name": "Control Valve 45",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-046",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-096",
+    "valve_name": "Control Valve 46",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-047",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-097",
+    "valve_name": "Control Valve 47",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-048",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-098",
+    "valve_name": "Control Valve 48",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-049",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-099",
+    "valve_name": "Control Valve 49",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-050",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-100",
+    "valve_name": "Control Valve 50",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-051",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-101",
+    "valve_name": "Control Valve 51",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-052",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-102",
+    "valve_name": "Control Valve 52",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-053",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-103",
+    "valve_name": "Control Valve 53",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-054",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-104",
+    "valve_name": "Control Valve 54",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-055",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-105",
+    "valve_name": "Control Valve 55",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-056",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-106",
+    "valve_name": "Control Valve 56",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-057",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-107",
+    "valve_name": "Control Valve 57",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-058",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-108",
+    "valve_name": "Control Valve 58",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-059",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-109",
+    "valve_name": "Control Valve 59",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  },
+  {
+    "valve_id": "VALVE-060",
+    "facility_id": "FAC-003",
+    "node_id": "NODE-110",
+    "valve_name": "Control Valve 60",
+    "opening_percentage": 100.0,
+    "valve_state": "OPEN"
+  }
+]

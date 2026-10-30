@@ -1,0 +1,37 @@
+﻿# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Temporary databases and backups
+data/*backup*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+
+# Keep the main database and verified exports.
+# Do not exclude data/industrial_monitoring.db or data/exports/.
